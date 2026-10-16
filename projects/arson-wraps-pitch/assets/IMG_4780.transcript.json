@@ -1,0 +1,864 @@
+{
+ "text": "so when when it comes to when it comes to businesses having a website it's not about colors it's not about how the website looks it's not about how website feels but it's all about visualizing the process of your business so yesterday I was cold cuddling and pitching my ideas and I came across this car wrapping protective film installing business so I thought about okay if these people are going in to change the color of the car why not do it before they come in so I built this custom AI component into their website that goes okay when somebody uploads the photo of their website they will get in and when somebody uploads their when somebody uploads the photo of their car they choose the color and cd end result",
+ "audio_duration_secs": 63.403333,
+ "language": "en",
+ "provider": "faster-whisper/large-v3 (local)",
+ "words": [
+  {
+   "text": "so",
+   "start": 0.9,
+   "end": 1.58,
+   "probability": 0.316
+  },
+  {
+   "text": "when",
+   "start": 1.58,
+   "end": 1.82,
+   "probability": 0.973
+  },
+  {
+   "text": "when",
+   "start": 1.82,
+   "end": 2.2,
+   "probability": 0.661
+  },
+  {
+   "text": "it",
+   "start": 2.2,
+   "end": 2.32,
+   "probability": 0.995
+  },
+  {
+   "text": "comes",
+   "start": 2.32,
+   "end": 2.52,
+   "probability": 0.999
+  },
+  {
+   "text": "to",
+   "start": 2.52,
+   "end": 2.68,
+   "probability": 0.992
+  },
+  {
+   "text": "when",
+   "start": 2.68,
+   "end": 3.6,
+   "probability": 0.953
+  },
+  {
+   "text": "it",
+   "start": 3.6,
+   "end": 4.72,
+   "probability": 0.998
+  },
+  {
+   "text": "comes",
+   "start": 4.72,
+   "end": 4.9,
+   "probability": 1.0
+  },
+  {
+   "text": "to",
+   "start": 4.9,
+   "end": 5.1,
+   "probability": 0.999
+  },
+  {
+   "text": "businesses",
+   "start": 5.1,
+   "end": 5.74,
+   "probability": 0.976
+  },
+  {
+   "text": "having",
+   "start": 5.74,
+   "end": 6.12,
+   "probability": 0.997
+  },
+  {
+   "text": "a",
+   "start": 6.12,
+   "end": 6.34,
+   "probability": 0.992
+  },
+  {
+   "text": "website",
+   "start": 6.34,
+   "end": 6.76,
+   "probability": 0.998
+  },
+  {
+   "text": "it's",
+   "start": 6.76,
+   "end": 7.5,
+   "probability": 0.977
+  },
+  {
+   "text": "not",
+   "start": 7.5,
+   "end": 7.74,
+   "probability": 0.999
+  },
+  {
+   "text": "about",
+   "start": 7.74,
+   "end": 8.16,
+   "probability": 0.999
+  },
+  {
+   "text": "colors",
+   "start": 8.16,
+   "end": 8.68,
+   "probability": 0.895
+  },
+  {
+   "text": "it's",
+   "start": 8.68,
+   "end": 8.98,
+   "probability": 0.971
+  },
+  {
+   "text": "not",
+   "start": 8.98,
+   "end": 9.06,
+   "probability": 1.0
+  },
+  {
+   "text": "about",
+   "start": 9.06,
+   "end": 9.42,
+   "probability": 0.999
+  },
+  {
+   "text": "how",
+   "start": 9.42,
+   "end": 9.72,
+   "probability": 0.997
+  },
+  {
+   "text": "the",
+   "start": 9.72,
+   "end": 9.96,
+   "probability": 0.991
+  },
+  {
+   "text": "website",
+   "start": 9.96,
+   "end": 10.22,
+   "probability": 0.998
+  },
+  {
+   "text": "looks",
+   "start": 10.22,
+   "end": 10.62,
+   "probability": 0.999
+  },
+  {
+   "text": "it's",
+   "start": 10.62,
+   "end": 11.32,
+   "probability": 0.994
+  },
+  {
+   "text": "not",
+   "start": 11.32,
+   "end": 11.38,
+   "probability": 0.999
+  },
+  {
+   "text": "about",
+   "start": 11.38,
+   "end": 11.58,
+   "probability": 0.998
+  },
+  {
+   "text": "how",
+   "start": 11.58,
+   "end": 11.8,
+   "probability": 0.999
+  },
+  {
+   "text": "website",
+   "start": 11.8,
+   "end": 12.12,
+   "probability": 0.71
+  },
+  {
+   "text": "feels",
+   "start": 12.12,
+   "end": 12.54,
+   "probability": 0.992
+  },
+  {
+   "text": "but",
+   "start": 12.54,
+   "end": 13.54,
+   "probability": 0.935
+  },
+  {
+   "text": "it's",
+   "start": 13.54,
+   "end": 13.74,
+   "probability": 0.971
+  },
+  {
+   "text": "all",
+   "start": 13.74,
+   "end": 13.84,
+   "probability": 1.0
+  },
+  {
+   "text": "about",
+   "start": 13.84,
+   "end": 14.1,
+   "probability": 1.0
+  },
+  {
+   "text": "visualizing",
+   "start": 14.1,
+   "end": 16.62,
+   "probability": 0.985
+  },
+  {
+   "text": "the",
+   "start": 16.62,
+   "end": 17.02,
+   "probability": 1.0
+  },
+  {
+   "text": "process",
+   "start": 17.02,
+   "end": 17.46,
+   "probability": 1.0
+  },
+  {
+   "text": "of",
+   "start": 17.46,
+   "end": 18.74,
+   "probability": 0.999
+  },
+  {
+   "text": "your",
+   "start": 18.74,
+   "end": 19.1,
+   "probability": 1.0
+  },
+  {
+   "text": "business",
+   "start": 19.1,
+   "end": 19.66,
+   "probability": 1.0
+  },
+  {
+   "text": "so",
+   "start": 19.66,
+   "end": 20.86,
+   "probability": 0.979
+  },
+  {
+   "text": "yesterday",
+   "start": 20.86,
+   "end": 22.1,
+   "probability": 0.99
+  },
+  {
+   "text": "I",
+   "start": 22.1,
+   "end": 22.36,
+   "probability": 0.153
+  },
+  {
+   "text": "was",
+   "start": 22.36,
+   "end": 22.48,
+   "probability": 0.998
+  },
+  {
+   "text": "cold",
+   "start": 22.48,
+   "end": 22.74,
+   "probability": 0.751
+  },
+  {
+   "text": "cuddling",
+   "start": 22.74,
+   "end": 23.18,
+   "probability": 0.74
+  },
+  {
+   "text": "and",
+   "start": 23.18,
+   "end": 23.66,
+   "probability": 0.997
+  },
+  {
+   "text": "pitching",
+   "start": 23.66,
+   "end": 23.92,
+   "probability": 0.918
+  },
+  {
+   "text": "my",
+   "start": 23.92,
+   "end": 25.34,
+   "probability": 0.999
+  },
+  {
+   "text": "ideas",
+   "start": 25.34,
+   "end": 25.68,
+   "probability": 0.996
+  },
+  {
+   "text": "and",
+   "start": 25.68,
+   "end": 26.08,
+   "probability": 0.997
+  },
+  {
+   "text": "I",
+   "start": 26.08,
+   "end": 26.18,
+   "probability": 0.951
+  },
+  {
+   "text": "came",
+   "start": 26.18,
+   "end": 26.36,
+   "probability": 0.999
+  },
+  {
+   "text": "across",
+   "start": 26.36,
+   "end": 26.56,
+   "probability": 0.999
+  },
+  {
+   "text": "this",
+   "start": 26.56,
+   "end": 26.9,
+   "probability": 0.999
+  },
+  {
+   "text": "car",
+   "start": 28.18,
+   "end": 28.7,
+   "probability": 0.939
+  },
+  {
+   "text": "wrapping",
+   "start": 28.7,
+   "end": 29.22,
+   "probability": 0.985
+  },
+  {
+   "text": "protective",
+   "start": 29.22,
+   "end": 29.8,
+   "probability": 0.882
+  },
+  {
+   "text": "film",
+   "start": 29.8,
+   "end": 30.28,
+   "probability": 0.99
+  },
+  {
+   "text": "installing",
+   "start": 30.28,
+   "end": 30.7,
+   "probability": 0.943
+  },
+  {
+   "text": "business",
+   "start": 30.7,
+   "end": 31.38,
+   "probability": 0.998
+  },
+  {
+   "text": "so",
+   "start": 31.38,
+   "end": 32.3,
+   "probability": 0.946
+  },
+  {
+   "text": "I",
+   "start": 32.3,
+   "end": 32.4,
+   "probability": 0.153
+  },
+  {
+   "text": "thought",
+   "start": 32.4,
+   "end": 32.58,
+   "probability": 0.998
+  },
+  {
+   "text": "about",
+   "start": 32.58,
+   "end": 32.78,
+   "probability": 0.982
+  },
+  {
+   "text": "okay",
+   "start": 32.78,
+   "end": 33.2,
+   "probability": 0.87
+  },
+  {
+   "text": "if",
+   "start": 33.2,
+   "end": 36.1,
+   "probability": 0.943
+  },
+  {
+   "text": "these",
+   "start": 36.1,
+   "end": 36.34,
+   "probability": 0.999
+  },
+  {
+   "text": "people",
+   "start": 36.34,
+   "end": 36.54,
+   "probability": 0.99
+  },
+  {
+   "text": "are",
+   "start": 36.54,
+   "end": 36.74,
+   "probability": 0.999
+  },
+  {
+   "text": "going",
+   "start": 36.74,
+   "end": 37.0,
+   "probability": 1.0
+  },
+  {
+   "text": "in",
+   "start": 37.0,
+   "end": 37.28,
+   "probability": 0.993
+  },
+  {
+   "text": "to",
+   "start": 37.28,
+   "end": 37.68,
+   "probability": 0.999
+  },
+  {
+   "text": "change",
+   "start": 37.68,
+   "end": 38.06,
+   "probability": 1.0
+  },
+  {
+   "text": "the",
+   "start": 38.06,
+   "end": 38.3,
+   "probability": 0.999
+  },
+  {
+   "text": "color",
+   "start": 38.3,
+   "end": 38.56,
+   "probability": 0.955
+  },
+  {
+   "text": "of",
+   "start": 38.56,
+   "end": 38.7,
+   "probability": 0.999
+  },
+  {
+   "text": "the",
+   "start": 38.7,
+   "end": 38.76,
+   "probability": 0.154
+  },
+  {
+   "text": "car",
+   "start": 38.76,
+   "end": 38.98,
+   "probability": 0.998
+  },
+  {
+   "text": "why",
+   "start": 38.98,
+   "end": 39.26,
+   "probability": 0.968
+  },
+  {
+   "text": "not",
+   "start": 39.26,
+   "end": 39.48,
+   "probability": 0.999
+  },
+  {
+   "text": "do",
+   "start": 39.48,
+   "end": 39.68,
+   "probability": 0.998
+  },
+  {
+   "text": "it",
+   "start": 39.68,
+   "end": 39.82,
+   "probability": 0.999
+  },
+  {
+   "text": "before",
+   "start": 39.82,
+   "end": 40.42,
+   "probability": 0.998
+  },
+  {
+   "text": "they",
+   "start": 40.42,
+   "end": 40.72,
+   "probability": 0.99
+  },
+  {
+   "text": "come",
+   "start": 40.72,
+   "end": 40.98,
+   "probability": 0.971
+  },
+  {
+   "text": "in",
+   "start": 40.98,
+   "end": 41.18,
+   "probability": 0.972
+  },
+  {
+   "text": "so",
+   "start": 41.18,
+   "end": 44.26,
+   "probability": 0.843
+  },
+  {
+   "text": "I",
+   "start": 44.26,
+   "end": 44.34,
+   "probability": 0.889
+  },
+  {
+   "text": "built",
+   "start": 44.34,
+   "end": 44.54,
+   "probability": 0.914
+  },
+  {
+   "text": "this",
+   "start": 44.54,
+   "end": 44.68,
+   "probability": 0.986
+  },
+  {
+   "text": "custom",
+   "start": 44.68,
+   "end": 44.98,
+   "probability": 0.933
+  },
+  {
+   "text": "AI",
+   "start": 44.98,
+   "end": 45.22,
+   "probability": 0.473
+  },
+  {
+   "text": "component",
+   "start": 45.22,
+   "end": 45.78,
+   "probability": 0.993
+  },
+  {
+   "text": "into",
+   "start": 45.78,
+   "end": 46.36,
+   "probability": 0.995
+  },
+  {
+   "text": "their",
+   "start": 46.36,
+   "end": 46.54,
+   "probability": 0.963
+  },
+  {
+   "text": "website",
+   "start": 46.54,
+   "end": 46.86,
+   "probability": 0.998
+  },
+  {
+   "text": "that",
+   "start": 46.86,
+   "end": 48.18,
+   "probability": 0.992
+  },
+  {
+   "text": "goes",
+   "start": 48.18,
+   "end": 48.44,
+   "probability": 0.998
+  },
+  {
+   "text": "okay",
+   "start": 48.44,
+   "end": 48.94,
+   "probability": 0.977
+  },
+  {
+   "text": "when",
+   "start": 48.94,
+   "end": 49.16,
+   "probability": 0.887
+  },
+  {
+   "text": "somebody",
+   "start": 49.16,
+   "end": 49.54,
+   "probability": 0.996
+  },
+  {
+   "text": "uploads",
+   "start": 49.54,
+   "end": 49.98,
+   "probability": 0.998
+  },
+  {
+   "text": "the",
+   "start": 49.98,
+   "end": 50.36,
+   "probability": 0.886
+  },
+  {
+   "text": "photo",
+   "start": 50.36,
+   "end": 50.6,
+   "probability": 0.861
+  },
+  {
+   "text": "of",
+   "start": 50.6,
+   "end": 50.76,
+   "probability": 0.994
+  },
+  {
+   "text": "their",
+   "start": 50.76,
+   "end": 50.84,
+   "probability": 0.937
+  },
+  {
+   "text": "website",
+   "start": 50.84,
+   "end": 51.16,
+   "probability": 0.999
+  },
+  {
+   "text": "they",
+   "start": 51.16,
+   "end": 51.44,
+   "probability": 0.977
+  },
+  {
+   "text": "will",
+   "start": 51.44,
+   "end": 51.58,
+   "probability": 0.991
+  },
+  {
+   "text": "get",
+   "start": 51.58,
+   "end": 51.82,
+   "probability": 0.99
+  },
+  {
+   "text": "in",
+   "start": 51.82,
+   "end": 51.98,
+   "probability": 0.223
+  },
+  {
+   "text": "and",
+   "start": 51.98,
+   "end": 53.66,
+   "probability": 0.984
+  },
+  {
+   "text": "when",
+   "start": 53.66,
+   "end": 54.34,
+   "probability": 0.999
+  },
+  {
+   "text": "somebody",
+   "start": 54.34,
+   "end": 54.66,
+   "probability": 0.46
+  },
+  {
+   "text": "uploads",
+   "start": 54.66,
+   "end": 55.0,
+   "probability": 0.996
+  },
+  {
+   "text": "their",
+   "start": 55.0,
+   "end": 55.44,
+   "probability": 0.819
+  },
+  {
+   "text": "when",
+   "start": 55.44,
+   "end": 55.76,
+   "probability": 0.864
+  },
+  {
+   "text": "somebody",
+   "start": 55.76,
+   "end": 57.78,
+   "probability": 0.982
+  },
+  {
+   "text": "uploads",
+   "start": 57.78,
+   "end": 58.06,
+   "probability": 0.992
+  },
+  {
+   "text": "the",
+   "start": 58.06,
+   "end": 58.28,
+   "probability": 0.96
+  },
+  {
+   "text": "photo",
+   "start": 58.28,
+   "end": 58.74,
+   "probability": 0.995
+  },
+  {
+   "text": "of",
+   "start": 58.74,
+   "end": 58.86,
+   "probability": 1.0
+  },
+  {
+   "text": "their",
+   "start": 58.86,
+   "end": 59.02,
+   "probability": 0.999
+  },
+  {
+   "text": "car",
+   "start": 59.02,
+   "end": 59.36,
+   "probability": 0.999
+  },
+  {
+   "text": "they",
+   "start": 59.36,
+   "end": 59.78,
+   "probability": 0.942
+  },
+  {
+   "text": "choose",
+   "start": 59.78,
+   "end": 59.98,
+   "probability": 0.994
+  },
+  {
+   "text": "the",
+   "start": 59.98,
+   "end": 60.16,
+   "probability": 0.999
+  },
+  {
+   "text": "color",
+   "start": 60.16,
+   "end": 60.44,
+   "probability": 0.951
+  },
+  {
+   "text": "and",
+   "start": 60.44,
+   "end": 60.82,
+   "probability": 0.998
+  },
+  {
+   "text": "cd",
+   "start": 60.82,
+   "end": 61.28,
+   "probability": 0.591
+  },
+  {
+   "text": "end",
+   "start": 61.28,
+   "end": 61.8,
+   "probability": 0.329
+  },
+  {
+   "text": "result",
+   "start": 61.8,
+   "end": 62.16,
+   "probability": 0.964
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.9,
+   "end": 7.74,
+   "text": "so when when it comes to when it comes to businesses having a website it's not"
+  },
+  {
+   "start": 7.74,
+   "end": 11.8,
+   "text": "about colors it's not about how the website looks it's not about how"
+  },
+  {
+   "start": 11.8,
+   "end": 19.66,
+   "text": "website feels but it's all about visualizing the process of your business"
+  },
+  {
+   "start": 19.66,
+   "end": 26.9,
+   "text": "so yesterday I was cold cuddling and pitching my ideas and I came across this"
+  },
+  {
+   "start": 28.18,
+   "end": 36.34,
+   "text": "car wrapping protective film installing business so I thought about okay if these"
+  },
+  {
+   "start": 36.34,
+   "end": 40.72,
+   "text": "people are going in to change the color of the car why not do it before they"
+  },
+  {
+   "start": 40.72,
+   "end": 48.44,
+   "text": "come in so I built this custom AI component into their website that goes"
+  },
+  {
+   "start": 48.44,
+   "end": 54.34,
+   "text": "okay when somebody uploads the photo of their website they will get in and when"
+  },
+  {
+   "start": 54.34,
+   "end": 61.28,
+   "text": "somebody uploads their when somebody uploads the photo of their car they choose the color and cd"
+  },
+  {
+   "start": 61.28,
+   "end": 62.16,
+   "text": "end result"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "fps": 30,
+ "duration": 110.433333,
+ "takes": [
+  {
+   "file": "raw/IMG_4780.MOV",
+   "offset": 0.0,
+   "duration": 63.4,
+   "frames": 1902,
+   "hdrToneMapped": true,
+   "colorTransfer": "arib-std-b67"
+  },
+  {
+   "file": "raw/IMG_4781.MOV",
+   "offset": 63.4,
+   "duration": 47.033333,
+   "frames": 1411,
+   "hdrToneMapped": true,
+   "colorTransfer": "arib-std-b67"
+  }
+ ]
+}

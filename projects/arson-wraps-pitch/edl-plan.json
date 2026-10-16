@@ -1,0 +1,136 @@
+{
+ "segments": [
+  {
+   "id": "s1-hook",
+   "start": 35.98,
+   "end": 41.36,
+   "why": "Cold open: 'if these people are going in to change the color of the car, why not do it before they come in?' moved to the front as the hook"
+  },
+  {
+   "id": "s2-thesis",
+   "start": 3.3,
+   "end": 19.92,
+   "why": "Thesis. Starts at the third, clean 'when it comes to'"
+  },
+  {
+   "id": "s3-story",
+   "start": 20.7,
+   "end": 31.75,
+   "why": "Cold-calling story, the wrap shop"
+  },
+  {
+   "id": "s4-build",
+   "start": 43.98,
+   "end": 47.18,
+   "why": "'So I built this custom AI component into their website'"
+  },
+  {
+   "id": "s5-upload",
+   "start": 57.28,
+   "end": 62.4,
+   "why": "Clean take: 'when somebody uploads the photo of their car ... see the end result'"
+  },
+  {
+   "id": "s6a-magic",
+   "start": 65.6,
+   "end": 69.56,
+   "why": "Take 2, clean restart: 'and AI does its magic and spits out an image'"
+  },
+  {
+   "id": "s6b-wrapped",
+   "start": 71.17,
+   "end": 73.28,
+   "why": "'of the car being wrapped in that color'"
+  },
+  {
+   "id": "s7-funnel",
+   "start": 77.67,
+   "end": 93.2,
+   "why": "Quote, traffic, money, better business"
+  },
+  {
+   "id": "s8a-ways",
+   "start": 93.73,
+   "end": 99.2,
+   "why": "'So I do this all the time, I could think of millions of different ways'"
+  },
+  {
+   "id": "s8b-cta",
+   "start": 99.96,
+   "end": 108.2,
+   "why": "'this thought process could be applied to many different businesses ... hit me up'"
+  }
+ ],
+ "removed": [
+  {
+   "start": 0.0,
+   "end": 3.3,
+   "reason": "Lead-in plus false starts: 'so when when it comes to, when ...'"
+  },
+  {
+   "start": 19.92,
+   "end": 20.7,
+   "reason": "Dead air between thesis and story"
+  },
+  {
+   "start": 31.75,
+   "end": 35.98,
+   "reason": "'So I thought about, okay,' + 2.7 s pause; the question it introduces is used as the cold open"
+  },
+  {
+   "start": 41.36,
+   "end": 43.98,
+   "reason": "Hook line moved to the front; 2.9 s pause"
+  },
+  {
+   "start": 47.18,
+   "end": 57.28,
+   "reason": "Retake: 'that goes, okay, when somebody uploads the photo of their website they will get in, and when somebody uploads their, when' (wrong word, then abandoned restart)"
+  },
+  {
+   "start": 62.4,
+   "end": 63.4,
+   "reason": "End of take 1"
+  },
+  {
+   "start": 63.4,
+   "end": 65.6,
+   "reason": "Abandoned start: 'and the AI does this math' (stumble, restarted)"
+  },
+  {
+   "start": 69.56,
+   "end": 71.17,
+   "reason": "Repeat: first 'of their car', restarted as 'of the car being wrapped'"
+  },
+  {
+   "start": 73.28,
+   "end": 77.67,
+   "reason": "4.4 s pause"
+  },
+  {
+   "start": 93.2,
+   "end": 93.73,
+   "reason": "Pause"
+  },
+  {
+   "start": 99.2,
+   "end": 99.96,
+   "reason": "False start 'you could' before 'this thought process'"
+  },
+  {
+   "start": 108.2,
+   "end": 110.433,
+   "reason": "Tail"
+  }
+ ],
+ "params": {
+  "noise_db": -38,
+  "min_silence": 0.18,
+  "min_pause": 0.28,
+  "keep_short": 0.18,
+  "keep_long": 0.26,
+  "long_pause": 0.9,
+  "pre_share": 0.45
+ },
+ "notes": "Master timeline: IMG_4780.MOV at 0.0 s, IMG_4781.MOV at 63.4 s (assets/sources.json)."
+}

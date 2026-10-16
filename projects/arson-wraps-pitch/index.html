@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Arson Wraps pitch reel</title>
+<script src="assets/gsap.min.js"></script>
+<style>
+@font-face{font-family:'Anton';src:url(assets/fonts/anton-latin.woff2) format('woff2');font-weight:400;font-style:normal}
+@font-face{font-family:'Inter';src:url(assets/fonts/inter-latin-var.woff2) format('woff2');font-weight:100 900;font-style:normal}
+:root{--asphalt:#0B0B0D;--gun:#1A1A1F;--mag:#E41395;--lime:#35D430;--orange:#FF4D1A;--smoke:#F5F5F7;--ash:#9A9AA5}
+*{box-sizing:border-box}
+html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#0B0B0D}
+#reel{position:relative;width:1080px;height:1920px;overflow:hidden;background:var(--asphalt)}
+#spk-wrap{position:absolute;left:0;top:0;width:1080px;height:1920px;transform-origin:540px 700px;z-index:1}
+#spk{width:1080px;height:1920px;display:block}
+#top{position:absolute;left:0;top:0;width:1080px;height:880px;overflow:hidden;z-index:2;background:var(--asphalt)}
+#seam{position:absolute;left:0;bottom:0;width:100%;height:4px;background:var(--mag);z-index:4}
+.bw{position:absolute;left:0;top:0;width:1080px;height:880px;transform-origin:50% 50%}
+.bw video{width:1080px;height:880px;display:block}
+.g{position:absolute;left:0;top:0;width:1080px;height:880px;z-index:3}
+.gpanel{background:radial-gradient(ellipse at 85% 0%,rgba(228,19,149,.16),transparent 60%),var(--asphalt)}
+.eyebrow{font:700 34px/1 'Inter',sans-serif;letter-spacing:8px;color:var(--ash)}
+.na-wrap{display:flex;flex-direction:column;justify-content:center;gap:26px;width:100%;height:100%;padding:90px 110px;box-sizing:border-box}
+.na-row{position:relative;display:flex;align-items:center;gap:34px;height:170px}
+.na-word{position:relative;font:400 168px/1 'Anton',sans-serif;color:var(--smoke);letter-spacing:1px}
+.sw{display:flex;gap:14px}.sw i{display:block;width:44px;height:44px;border-radius:50%;box-shadow:0 0 0 2px rgba(245,245,247,.15)}
+.strike{position:absolute;left:-16px;right:-16px;top:50%;height:14px;margin-top:-7px;background:var(--orange);border-radius:7px;transform-origin:0 50%}
+.fn-wrap{display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;height:100%;padding:70px 90px;box-sizing:border-box}
+.node{font:400 86px/1 'Anton',sans-serif;color:var(--smoke);background:var(--gun);border:2px solid rgba(245,245,247,.16);border-radius:22px;padding:22px 44px 16px;letter-spacing:1px;white-space:nowrap}
+.n-quote{font-size:60px;color:var(--ash);display:flex;align-items:center;gap:18px}.n-quote em{font-style:normal;color:var(--lime)}
+.n-win{color:var(--asphalt);background:var(--lime);border-color:var(--lime);box-shadow:0 0 60px rgba(53,212,48,.35)}
+.link{display:block;width:6px;height:48px;background:var(--mag);border-radius:3px;transform-origin:50% 0}
+.mb-wrap{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:34px;width:100%;height:100%;padding:70px 70px;box-sizing:border-box}
+.mb-row{display:flex;align-items:center;gap:18px;padding:22px 30px;border-radius:24px;background:var(--gun)}
+.mb-row .step{font:400 76px/1 'Anton',sans-serif;color:var(--smoke)}.mb-row .s-hot{color:var(--mag)}
+.mb-row i{font:700 54px/1 'Inter',sans-serif;color:var(--ash);font-style:normal}
+.mb-eg{font:700 28px/1 'Inter',sans-serif;letter-spacing:8px;color:var(--ash)}
+.mb-chips{display:flex;flex-wrap:wrap;justify-content:center;gap:16px;max-width:900px}
+.chip{font:800 34px/1 'Inter',sans-serif;letter-spacing:2px;color:var(--ash);border:2px solid rgba(245,245,247,.18);background:var(--gun);border-radius:999px;padding:16px 26px}
+#cap-layer{position:absolute;left:0;top:880px;width:1080px;height:0;z-index:6}
+.cap{position:absolute;left:0;top:0;width:1080px;text-align:center;transform:translateY(-50%)}
+.cap span{display:inline-block;font:400 82px/1 'Anton',sans-serif;letter-spacing:1px;color:var(--smoke);background:rgba(11,11,13,.9);border:2px solid rgba(245,245,247,.26);border-radius:16px;padding:16px 28px 12px;white-space:nowrap}
+.cap.m span{color:#F0359F}.cap.l span{color:var(--lime)}.cap.o span{color:var(--orange)}
+</style></head><body>
+<div id="reel" data-composition-id="reel" data-start="0" data-duration="59.933333" data-width="1080" data-height="1920">
+<div id="spk-wrap"><video id="spk" src="assets/aroll.mp4" muted playsinline data-start="0" data-duration="59.933333" data-track-index="0"></video></div>
+<div id="top">
+<div class="bw" id="bw-s00"><video id="v-s00" src="assets/hero.mp4" muted playsinline data-start="0.0" data-duration="1.666667" data-track-index="1"></video></div>
+<div class="bw" id="bw-s01"><video id="v-s01" src="assets/hook-sweep.mp4" muted playsinline data-start="1.666667" data-duration="1.333333" data-track-index="1"></video></div>
+<div class="bw" id="bw-s06"><video id="v-s06" src="assets/four-steps.mp4" muted playsinline data-start="14.233333" data-duration="3.2" data-track-index="1"></video></div>
+<div class="bw" id="bw-s09"><video id="v-s09" src="assets/shop-gallery.mp4" muted playsinline data-start="21.2" data-duration="2.233333" data-track-index="1"></video></div>
+<div class="bw" id="bw-s10"><video id="v-s10" src="assets/services.mp4" muted playsinline data-start="23.433333" data-duration="2.2" data-track-index="1"></video></div>
+<div class="bw" id="bw-s11"><video id="v-s11" src="assets/upload-ui.mp4" muted playsinline data-start="25.633333" data-duration="3.533334" data-track-index="1"></video></div>
+<div class="bw" id="bw-s12"><video id="v-s12" src="assets/upload-photo.mp4" muted playsinline data-start="29.166667" data-duration="2.1" data-track-index="1"></video></div>
+<div class="bw" id="bw-s13"><video id="v-s13" src="assets/pick-lime.mp4" muted playsinline data-start="31.266667" data-duration="2.466666" data-track-index="1"></video></div>
+<div class="bw" id="bw-s14"><video id="v-s14" src="assets/ai-loader.mp4" muted playsinline data-start="33.733333" data-duration="2.0" data-track-index="1"></video></div>
+<div class="bw" id="bw-s15"><video id="v-s15" src="assets/reveal.mp4" muted playsinline data-start="35.733333" data-duration="3.3" data-track-index="1"></video></div>
+<div class="bw" id="bw-s17"><video id="v-s17" src="assets/quote-sent.mp4" muted playsinline data-start="40.733333" data-duration="2.366667" data-track-index="1"></video></div>
+<div id="g-notabout" class="clip g gpanel" data-start="7.766667" data-duration="5.166666" data-track-index="2">
+ <div class="na-wrap">
+  <div class="eyebrow" id="na-eb">IT'S NOT ABOUT</div>
+  <div class="na-row" id="na-colors"><span class="na-word">COLORS<b class="strike"></b></span><span class="sw"><i style="background:#E41395"></i><i style="background:#35D430"></i><i style="background:#FF4D1A"></i><i style="background:#2F5BD8"></i><i style="background:#8C8C94"></i><i style="background:#4B5320"></i></span></div>
+  <div class="na-row" id="na-looks"><span class="na-word">LOOKS<b class="strike"></b></span></div>
+  <div class="na-row" id="na-feels"><span class="na-word">FEELS<b class="strike"></b></span></div>
+ </div></div>
+<div id="g-funnel" class="clip g gpanel" data-start="43.1" data-duration="6.333333" data-track-index="2">
+ <div class="fn-wrap">
+  <div class="node n-quote" id="fn-quote"><em>&#10003;</em>QUOTE REQUEST</div>
+  <b class="link" id="fl-1"></b>
+  <div class="node" id="fn-traffic">MORE TRAFFIC</div>
+  <b class="link" id="fl-2"></b>
+  <div class="node" id="fn-money">MORE MONEY</div>
+  <b class="link" id="fl-3"></b>
+  <div class="node n-win" id="fn-better">BETTER BUSINESS</div>
+ </div></div>
+<div id="g-many" class="clip g gpanel" data-start="52.466667" data-duration="4.3" data-track-index="2">
+ <div class="mb-wrap">
+  <div class="mb-row" id="mb-row"><span class="step">PHOTO</span><i>&#8594;</i><span class="step">PREVIEW</span><i>&#8594;</i><span class="step s-hot">QUOTE</span></div>
+  <div class="mb-eg" id="mb-eg">FOR EXAMPLE</div>
+  <div class="mb-chips" id="mb-chips"><span class="chip">SALONS</span><span class="chip">DENTISTS</span><span class="chip">GYMS</span><span class="chip">LANDSCAPERS</span><span class="chip">RENOVATIONS</span><span class="chip">TATTOO STUDIOS</span><span class="chip">DETAILERS</span><span class="chip">PAINTERS</span></div>
+ </div></div>
+<div id="seam"></div>
+</div>
+<div id="cap-layer">
+<div id="c000" class="clip cap" data-start="0.0" data-duration="0.6" data-track-index="3"><span>IF THESE PEOPLE</span></div>
+<div id="c001" class="clip cap" data-start="0.6" data-duration="0.72" data-track-index="3"><span>ARE GOING IN</span></div>
+<div id="c002" class="clip cap" data-start="1.32" data-duration="0.78" data-track-index="3"><span>TO CHANGE</span></div>
+<div id="c003" class="clip cap m" data-start="2.1" data-duration="0.48" data-track-index="3"><span>THE COLOR</span></div>
+<div id="c004" class="clip cap" data-start="2.58" data-duration="0.48" data-track-index="3"><span>OF THEIR CAR,</span></div>
+<div id="c005" class="clip cap" data-start="3.06" data-duration="0.44" data-track-index="3"><span>WHY NOT</span></div>
+<div id="c006" class="clip cap" data-start="3.5" data-duration="0.4" data-track-index="3"><span>DO IT</span></div>
+<div id="c007" class="clip cap l" data-start="3.9" data-duration="0.68" data-track-index="3"><span>BEFORE THEY</span></div>
+<div id="c008" class="clip cap l" data-start="4.58" data-duration="0.873" data-track-index="3"><span>COME IN?</span></div>
+<div id="c009" class="clip cap" data-start="5.453" data-duration="0.667" data-track-index="3"><span>WHEN IT COMES</span></div>
+<div id="c010" class="clip cap" data-start="6.12" data-duration="0.62" data-track-index="3"><span>TO BUSINESSES</span></div>
+<div id="c011" class="clip cap" data-start="6.74" data-duration="1.08" data-track-index="3"><span>HAVING A WEBSITE,</span></div>
+<div id="c012" class="clip cap" data-start="7.82" data-duration="1.14" data-track-index="3"><span>IT&#x27;S NOT ABOUT</span></div>
+<div id="c013" class="clip cap o" data-start="8.96" data-duration="0.5" data-track-index="3"><span>COLORS,</span></div>
+<div id="c014" class="clip cap" data-start="9.46" data-duration="0.72" data-track-index="3"><span>IT&#x27;S NOT ABOUT</span></div>
+<div id="c015" class="clip cap" data-start="10.18" data-duration="0.82" data-track-index="3"><span>HOW THE WEBSITE</span></div>
+<div id="c016" class="clip cap o" data-start="11.0" data-duration="0.38" data-track-index="3"><span>LOOKS,</span></div>
+<div id="c017" class="clip cap" data-start="11.38" data-duration="0.62" data-track-index="3"><span>IT&#x27;S NOT ABOUT</span></div>
+<div id="c018" class="clip cap" data-start="12.0" data-duration="0.54" data-track-index="3"><span>HOW WEBSITE</span></div>
+<div id="c019" class="clip cap o" data-start="12.54" data-duration="0.46" data-track-index="3"><span>FEELS,</span></div>
+<div id="c020" class="clip cap" data-start="13.0" data-duration="0.54" data-track-index="3"><span>BUT IT&#x27;S</span></div>
+<div id="c021" class="clip cap" data-start="13.54" data-duration="0.693" data-track-index="3"><span>ALL ABOUT</span></div>
+<div id="c022" class="clip cap m" data-start="14.233" data-duration="0.927" data-track-index="3"><span>VISUALIZING</span></div>
+<div id="c023" class="clip cap m" data-start="15.16" data-duration="0.84" data-track-index="3"><span>THE PROCESS</span></div>
+<div id="c024" class="clip cap" data-start="16.0" data-duration="1.5" data-track-index="3"><span>OF YOUR BUSINESS.</span></div>
+<div id="c025" class="clip cap" data-start="17.5" data-duration="0.893" data-track-index="3"><span>SO YESTERDAY</span></div>
+<div id="c026" class="clip cap" data-start="18.393" data-duration="0.467" data-track-index="3"><span>I WAS</span></div>
+<div id="c027" class="clip cap m" data-start="18.86" data-duration="0.6" data-track-index="3"><span>COLD CALLING</span></div>
+<div id="c028" class="clip cap" data-start="19.46" data-duration="0.9" data-track-index="3"><span>AND PITCHING</span></div>
+<div id="c029" class="clip cap" data-start="20.36" data-duration="0.9" data-track-index="3"><span>MY IDEAS,</span></div>
+<div id="c030" class="clip cap" data-start="21.26" data-duration="0.66" data-track-index="3"><span>AND I CAME</span></div>
+<div id="c031" class="clip cap" data-start="21.92" data-duration="0.646" data-track-index="3"><span>ACROSS THIS</span></div>
+<div id="c032" class="clip cap m" data-start="22.566" data-duration="0.934" data-track-index="3"><span>CAR WRAPPING,</span></div>
+<div id="c033" class="clip cap" data-start="23.5" data-duration="1.06" data-track-index="3"><span>PROTECTIVE FILM</span></div>
+<div id="c034" class="clip cap" data-start="24.56" data-duration="1.12" data-track-index="3"><span>INSTALLING BUSINESS.</span></div>
+<div id="c035" class="clip cap" data-start="25.68" data-duration="0.92" data-track-index="3"><span>SO I BUILT</span></div>
+<div id="c036" class="clip cap" data-start="26.6" data-duration="0.44" data-track-index="3"><span>THIS CUSTOM</span></div>
+<div id="c037" class="clip cap m" data-start="27.04" data-duration="0.74" data-track-index="3"><span>AI COMPONENT</span></div>
+<div id="c038" class="clip cap" data-start="27.78" data-duration="0.84" data-track-index="3"><span>INTO THEIR</span></div>
+<div id="c039" class="clip cap" data-start="28.62" data-duration="0.546" data-track-index="3"><span>WEBSITE.</span></div>
+<div id="c040" class="clip cap" data-start="29.166" data-duration="0.594" data-track-index="3"><span>WHEN SOMEBODY</span></div>
+<div id="c041" class="clip cap" data-start="29.76" data-duration="0.94" data-track-index="3"><span>UPLOADS THE PHOTO</span></div>
+<div id="c042" class="clip cap" data-start="30.7" data-duration="0.62" data-track-index="3"><span>OF THEIR CAR,</span></div>
+<div id="c043" class="clip cap" data-start="31.32" data-duration="0.54" data-track-index="3"><span>THEY CHOOSE</span></div>
+<div id="c044" class="clip cap m" data-start="31.86" data-duration="0.36" data-track-index="3"><span>THE COLOR</span></div>
+<div id="c045" class="clip cap" data-start="32.22" data-duration="0.74" data-track-index="3"><span>AND SEE</span></div>
+<div id="c046" class="clip cap l" data-start="32.96" data-duration="0.84" data-track-index="3"><span>THE END RESULT,</span></div>
+<div id="c047" class="clip cap" data-start="33.8" data-duration="0.48" data-track-index="3"><span>AND AI</span></div>
+<div id="c048" class="clip cap m" data-start="34.28" data-duration="0.76" data-track-index="3"><span>DOES ITS MAGIC</span></div>
+<div id="c049" class="clip cap" data-start="35.04" data-duration="1.36" data-track-index="3"><span>AND SPITS OUT</span></div>
+<div id="c050" class="clip cap" data-start="36.4" data-duration="0.5" data-track-index="3"><span>AN IMAGE</span></div>
+<div id="c051" class="clip cap" data-start="36.9" data-duration="0.88" data-track-index="3"><span>OF THE CAR</span></div>
+<div id="c052" class="clip cap" data-start="37.78" data-duration="0.6" data-track-index="3"><span>BEING WRAPPED</span></div>
+<div id="c053" class="clip cap l" data-start="38.38" data-duration="0.72" data-track-index="3"><span>IN THAT COLOR.</span></div>
+<div id="c054" class="clip cap" data-start="39.1" data-duration="0.84" data-track-index="3"><span>AND FROM THERE,</span></div>
+<div id="c055" class="clip cap" data-start="39.94" data-duration="0.84" data-track-index="3"><span>THEY COULD JUST</span></div>
+<div id="c056" class="clip cap l" data-start="40.78" data-duration="0.64" data-track-index="3"><span>BOOK A MEETING</span></div>
+<div id="c057" class="clip cap" data-start="41.42" data-duration="0.54" data-track-index="3"><span>OR GET</span></div>
+<div id="c058" class="clip cap l" data-start="41.96" data-duration="0.34" data-track-index="3"><span>A QUOTE</span></div>
+<div id="c059" class="clip cap" data-start="42.3" data-duration="0.86" data-track-index="3"><span>FOR THE BUSINESSES,</span></div>
+<div id="c060" class="clip cap" data-start="43.16" data-duration="0.54" data-track-index="3"><span>WHICH COULD</span></div>
+<div id="c061" class="clip cap" data-start="43.7" data-duration="0.6" data-track-index="3"><span>LEAD TO</span></div>
+<div id="c062" class="clip cap l" data-start="44.3" data-duration="0.873" data-track-index="3"><span>MORE TRAFFIC</span></div>
+<div id="c063" class="clip cap" data-start="45.173" data-duration="0.747" data-track-index="3"><span>COMING INTO</span></div>
+<div id="c064" class="clip cap" data-start="45.92" data-duration="0.44" data-track-index="3"><span>THE BUSINESS,</span></div>
+<div id="c065" class="clip cap" data-start="46.36" data-duration="0.54" data-track-index="3"><span>WHICH MEANS</span></div>
+<div id="c066" class="clip cap l" data-start="46.9" data-duration="0.56" data-track-index="3"><span>MORE MONEY,</span></div>
+<div id="c067" class="clip cap" data-start="47.46" data-duration="0.54" data-track-index="3"><span>WHICH MEANS</span></div>
+<div id="c068" class="clip cap" data-start="48.0" data-duration="0.58" data-track-index="3"><span>OVERALL BETTER</span></div>
+<div id="c069" class="clip cap l" data-start="48.58" data-duration="0.92" data-track-index="3"><span>BUSINESS, RIGHT?</span></div>
+<div id="c070" class="clip cap" data-start="49.5" data-duration="0.8" data-track-index="3"><span>SO I DO</span></div>
+<div id="c071" class="clip cap" data-start="50.3" data-duration="0.56" data-track-index="3"><span>THIS ALL</span></div>
+<div id="c072" class="clip cap" data-start="50.86" data-duration="0.6" data-track-index="3"><span>THE TIME.</span></div>
+<div id="c073" class="clip cap" data-start="51.46" data-duration="0.76" data-track-index="3"><span>I COULD THINK</span></div>
+<div id="c074" class="clip cap m" data-start="52.22" data-duration="0.58" data-track-index="3"><span>OF MILLIONS</span></div>
+<div id="c075" class="clip cap" data-start="52.8" data-duration="0.42" data-track-index="3"><span>OF DIFFERENT WAYS</span></div>
+<div id="c076" class="clip cap m" data-start="53.22" data-duration="1.46" data-track-index="3"><span>THIS THOUGHT PROCESS</span></div>
+<div id="c077" class="clip cap" data-start="54.68" data-duration="0.78" data-track-index="3"><span>COULD BE APPLIED</span></div>
+<div id="c078" class="clip cap" data-start="55.46" data-duration="0.58" data-track-index="3"><span>TO MANY</span></div>
+<div id="c079" class="clip cap m" data-start="56.04" data-duration="0.78" data-track-index="3"><span>DIFFERENT BUSINESSES,</span></div>
+<div id="c080" class="clip cap" data-start="56.82" data-duration="0.58" data-track-index="3"><span>AND IF YOU</span></div>
+<div id="c081" class="clip cap l" data-start="57.4" data-duration="0.48" data-track-index="3"><span>WANT THE SAME</span></div>
+<div id="c082" class="clip cap" data-start="57.88" data-duration="0.32" data-track-index="3"><span>FOR YOUR</span></div>
+<div id="c083" class="clip cap" data-start="58.2" data-duration="0.7" data-track-index="3"><span>BUSINESS, THEN</span></div>
+<div id="c084" class="clip cap l" data-start="58.9" data-duration="1.033" data-track-index="3"><span>HIT ME UP.</span></div>
+</div>
+<audio id="mix" src="assets/mix.wav" data-start="0" data-duration="59.933333" data-track-index="4" data-volume="1"></audio>
+</div>
+<script>
+window.__timelines=window.__timelines||{};
+const tl=gsap.timeline({paused:true});
+tl.set('#top',{opacity:1},0.0);tl.set('#spk-wrap',{y:780,scale:1},0.0);tl.set('#cap-layer',{y:0},0.0);
+tl.set('#top',{opacity:1},1.666667);tl.set('#spk-wrap',{y:780,scale:1},1.666667);tl.set('#cap-layer',{y:0},1.666667);
+tl.set('#top',{opacity:0},3.0);tl.set('#spk-wrap',{y:0,scale:1.28},3.0);tl.set('#cap-layer',{y:370},3.0);
+tl.set('#top',{opacity:0},5.466667);tl.set('#spk-wrap',{y:0,scale:1},5.466667);tl.set('#cap-layer',{y:300},5.466667);
+tl.set('#top',{opacity:1},7.766667);tl.set('#spk-wrap',{y:780,scale:1},7.766667);tl.set('#cap-layer',{y:0},7.766667);
+tl.set('#top',{opacity:0},12.933333);tl.set('#spk-wrap',{y:0,scale:1.28},12.933333);tl.set('#cap-layer',{y:370},12.933333);
+tl.set('#top',{opacity:1},14.233333);tl.set('#spk-wrap',{y:780,scale:1},14.233333);tl.set('#cap-layer',{y:0},14.233333);
+tl.set('#top',{opacity:0},17.433333);tl.set('#spk-wrap',{y:0,scale:1},17.433333);tl.set('#cap-layer',{y:300},17.433333);
+tl.set('#top',{opacity:0},19.966667);tl.set('#spk-wrap',{y:0,scale:1.28},19.966667);tl.set('#cap-layer',{y:370},19.966667);
+tl.set('#top',{opacity:1},21.2);tl.set('#spk-wrap',{y:780,scale:1},21.2);tl.set('#cap-layer',{y:0},21.2);
+tl.set('#top',{opacity:1},23.433333);tl.set('#spk-wrap',{y:780,scale:1},23.433333);tl.set('#cap-layer',{y:0},23.433333);
+tl.set('#top',{opacity:1},25.633333);tl.set('#spk-wrap',{y:780,scale:1},25.633333);tl.set('#cap-layer',{y:0},25.633333);
+tl.set('#top',{opacity:1},29.166667);tl.set('#spk-wrap',{y:780,scale:1},29.166667);tl.set('#cap-layer',{y:0},29.166667);
+tl.set('#top',{opacity:1},31.266667);tl.set('#spk-wrap',{y:780,scale:1},31.266667);tl.set('#cap-layer',{y:0},31.266667);
+tl.set('#top',{opacity:1},33.733333);tl.set('#spk-wrap',{y:780,scale:1},33.733333);tl.set('#cap-layer',{y:0},33.733333);
+tl.set('#top',{opacity:1},35.733333);tl.set('#spk-wrap',{y:780,scale:1},35.733333);tl.set('#cap-layer',{y:0},35.733333);
+tl.set('#top',{opacity:0},39.033333);tl.set('#spk-wrap',{y:0,scale:1},39.033333);tl.set('#cap-layer',{y:300},39.033333);
+tl.set('#top',{opacity:1},40.733333);tl.set('#spk-wrap',{y:780,scale:1},40.733333);tl.set('#cap-layer',{y:0},40.733333);
+tl.set('#top',{opacity:1},43.1);tl.set('#spk-wrap',{y:780,scale:1},43.1);tl.set('#cap-layer',{y:0},43.1);
+tl.set('#top',{opacity:0},49.433333);tl.set('#spk-wrap',{y:0,scale:1},49.433333);tl.set('#cap-layer',{y:300},49.433333);
+tl.set('#top',{opacity:0},51.4);tl.set('#spk-wrap',{y:0,scale:1.28},51.4);tl.set('#cap-layer',{y:370},51.4);
+tl.set('#top',{opacity:1},52.466667);tl.set('#spk-wrap',{y:780,scale:1},52.466667);tl.set('#cap-layer',{y:0},52.466667);
+tl.set('#top',{opacity:0},56.766667);tl.set('#spk-wrap',{y:0,scale:1.28},56.766667);tl.set('#cap-layer',{y:370},56.766667);
+tl.fromTo('#bw-s00',{scale:1},{scale:1.045,duration:1.666667,ease:'none'},0.0);
+tl.fromTo('#bw-s01',{scale:1},{scale:1.045,duration:1.333333,ease:'none'},1.666667);
+tl.fromTo('#bw-s06',{scale:1},{scale:1.045,duration:3.2,ease:'none'},14.233333);
+tl.fromTo('#bw-s09',{scale:1},{scale:1.045,duration:2.233333,ease:'none'},21.2);
+tl.fromTo('#bw-s10',{scale:1},{scale:1.045,duration:2.2,ease:'none'},23.433333);
+tl.fromTo('#bw-s11',{scale:1},{scale:1.045,duration:3.533334,ease:'none'},25.633333);
+tl.fromTo('#bw-s12',{scale:1},{scale:1.045,duration:2.1,ease:'none'},29.166667);
+tl.fromTo('#bw-s13',{scale:1},{scale:1.045,duration:2.466666,ease:'none'},31.266667);
+tl.fromTo('#bw-s14',{scale:1},{scale:1.045,duration:2.0,ease:'none'},33.733333);
+tl.fromTo('#bw-s15',{scale:1},{scale:1.045,duration:3.3,ease:'none'},35.733333);
+tl.fromTo('#bw-s17',{scale:1},{scale:1.045,duration:2.366667,ease:'none'},40.733333);
+tl.from('#na-eb',{opacity:0,y:16,duration:.4,ease:'power2.out'},7.846667);
+tl.from('#na-colors',{opacity:0,y:46,duration:.34,ease:'power3.out'},8.893);
+tl.from('#na-colors .sw i',{scale:0,duration:.22,stagger:.04,ease:'back.out(2)'},8.973);
+tl.fromTo('#na-colors .strike',{scaleX:0},{scaleX:1,duration:.22,ease:'power2.in'},9.08);
+tl.to('#na-colors .na-word',{color:'#6E6E78',duration:.2,ease:'none'},9.26);
+tl.from('#na-looks',{opacity:0,y:46,duration:.34,ease:'expo.out'},10.933);
+tl.fromTo('#na-looks .strike',{scaleX:0},{scaleX:1,duration:.22,ease:'power2.in'},11.12);
+tl.to('#na-looks .na-word',{color:'#6E6E78',duration:.2,ease:'none'},11.3);
+tl.from('#na-feels',{opacity:0,y:46,duration:.34,ease:'back.out(1.6)'},12.473);
+tl.fromTo('#na-feels .strike',{scaleX:0},{scaleX:1,duration:.22,ease:'power2.in'},12.66);
+tl.to('#na-feels .na-word',{color:'#6E6E78',duration:.2,ease:'none'},12.84);
+tl.from('#fn-quote',{opacity:0,x:-60,duration:.4,ease:'power3.out'},43.2);
+tl.fromTo('#fl-1',{scaleY:0},{scaleY:1,duration:.28,ease:'power2.inOut'},43.933);
+tl.from('#fn-traffic',{opacity:0,y:30,scale:.92,duration:.36,ease:'expo.out'},44.233);
+tl.fromTo('#fl-2',{scaleY:0},{scaleY:1,duration:.28,ease:'power2.inOut'},46.533);
+tl.from('#fn-money',{opacity:0,y:30,scale:.92,duration:.36,ease:'power3.out'},46.833);
+tl.fromTo('#fl-3',{scaleY:0},{scaleY:1,duration:.28,ease:'power2.inOut'},47.893);
+tl.from('#fn-better',{opacity:0,y:30,scale:.92,duration:.36,ease:'back.out(1.4)'},48.193);
+tl.to('#fn-better',{scale:1.06,duration:.18,ease:'power2.out',yoyo:true,repeat:1},49.2);
+tl.from('#mb-row .step',{opacity:0,y:28,duration:.3,stagger:.14,ease:'power3.out'},52.566667);
+tl.from('#mb-row i',{opacity:0,duration:.2,stagger:.14,ease:'none'},52.686667);
+tl.fromTo('#mb-row',{boxShadow:'0 0 0 0 rgba(228,19,149,0)'},{boxShadow:'0 0 0 6px rgba(228,19,149,.9)',duration:.25,ease:'power2.out'},53.833);
+tl.from('#mb-eg',{opacity:0,duration:.25,ease:'none'},55.133);
+tl.from('#mb-chips .chip',{opacity:0,scale:.85,y:20,duration:.26,stagger:.09,ease:'back.out(1.7)'},55.183);
+tl.to('#mb-chips .chip',{borderColor:'#35D430',color:'#F5F5F7',duration:.2,stagger:.05,ease:'none'},55.8);
+window.__timelines['reel']=tl;
+</script>
+</body></html>

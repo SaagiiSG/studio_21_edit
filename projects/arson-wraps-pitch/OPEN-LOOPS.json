@@ -1,0 +1,10 @@
+[
+ {
+  "question": "Why not change the car's colour before the customer comes in — and how?",
+  "plantedObject": "White GR86 on the Arson Wraps site + before/after slider glimpse",
+  "setup": 0.0,
+  "reminders": [26.0, 29.2, 31.3],
+  "closure": 35.8,
+  "closingEvidence": "'the AI does its magic and spits out an image of the car being wrapped in that color' over the real loader resolving into the real Lime Green before/after slider"
+ }
+]

@@ -1,0 +1,578 @@
+{
+ "duration": 59.933334,
+ "fps": 30,
+ "source": "assets/source.mov (IMG_4780.MOV at 0.0 s, IMG_4781.MOV at 63.4 s; HLG tone-mapped to BT.709)",
+ "keeps": [
+  {
+   "segment": "s1-hook",
+   "sourceStart": 35.966667,
+   "sourceEnd": 39.933333,
+   "start": 0.0,
+   "end": 3.966666
+  },
+  {
+   "segment": "s1-hook",
+   "sourceStart": 40.1,
+   "sourceEnd": 41.366667,
+   "start": 3.966666,
+   "end": 5.233333
+  },
+  {
+   "segment": "s2-thesis",
+   "sourceStart": 3.3,
+   "sourceEnd": 3.766667,
+   "start": 5.233333,
+   "end": 5.7
+  },
+  {
+   "segment": "s2-thesis",
+   "sourceStart": 4.466667,
+   "sourceEnd": 5.033333,
+   "start": 5.7,
+   "end": 6.266666
+  },
+  {
+   "segment": "s2-thesis",
+   "sourceStart": 5.2,
+   "sourceEnd": 7.033333,
+   "start": 6.266666,
+   "end": 8.099999
+  },
+  {
+   "segment": "s2-thesis",
+   "sourceStart": 7.333333,
+   "sourceEnd": 10.9,
+   "start": 8.099999,
+   "end": 11.666666
+  },
+  {
+   "segment": "s2-thesis",
+   "sourceStart": 11.233333,
+   "sourceEnd": 12.8,
+   "start": 11.666666,
+   "end": 13.233333
+  },
+  {
+   "segment": "s2-thesis",
+   "sourceStart": 13.433333,
+   "sourceEnd": 14.5,
+   "start": 13.233333,
+   "end": 14.3
+  },
+  {
+   "segment": "s2-thesis",
+   "sourceStart": 15.766667,
+   "sourceEnd": 17.866667,
+   "start": 14.3,
+   "end": 16.4
+  },
+  {
+   "segment": "s2-thesis",
+   "sourceStart": 18.566667,
+   "sourceEnd": 19.933333,
+   "start": 16.4,
+   "end": 17.766666
+  },
+  {
+   "segment": "s3-story",
+   "sourceStart": 20.7,
+   "sourceEnd": 21.166667,
+   "start": 17.766666,
+   "end": 18.233333
+  },
+  {
+   "segment": "s3-story",
+   "sourceStart": 21.866667,
+   "sourceEnd": 24.333333,
+   "start": 18.233333,
+   "end": 20.699999
+  },
+  {
+   "segment": "s3-story",
+   "sourceStart": 25.133333,
+   "sourceEnd": 27.066667,
+   "start": 20.699999,
+   "end": 22.633333
+  },
+  {
+   "segment": "s3-story",
+   "sourceStart": 28.333333,
+   "sourceEnd": 31.733333,
+   "start": 22.633333,
+   "end": 26.033333
+  },
+  {
+   "segment": "s4-build",
+   "sourceStart": 43.966667,
+   "sourceEnd": 47.166667,
+   "start": 26.033333,
+   "end": 29.233333
+  },
+  {
+   "segment": "s5-upload",
+   "sourceStart": 57.266667,
+   "sourceEnd": 59.6,
+   "start": 29.233333,
+   "end": 31.566666
+  },
+  {
+   "segment": "s5-upload",
+   "sourceStart": 59.7,
+   "sourceEnd": 61.466667,
+   "start": 31.566666,
+   "end": 33.333333
+  },
+  {
+   "segment": "s5-upload",
+   "sourceStart": 61.733333,
+   "sourceEnd": 62.4,
+   "start": 33.333333,
+   "end": 34.0
+  },
+  {
+   "segment": "s6a-magic",
+   "sourceStart": 65.6,
+   "sourceEnd": 67.4,
+   "start": 34.0,
+   "end": 35.8
+  },
+  {
+   "segment": "s6a-magic",
+   "sourceStart": 68.066667,
+   "sourceEnd": 69.566667,
+   "start": 35.8,
+   "end": 37.3
+  },
+  {
+   "segment": "s6b-wrapped",
+   "sourceStart": 71.166667,
+   "sourceEnd": 73.266667,
+   "start": 37.3,
+   "end": 39.4
+  },
+  {
+   "segment": "s7-funnel",
+   "sourceStart": 77.666667,
+   "sourceEnd": 78.5,
+   "start": 39.4,
+   "end": 40.233333
+  },
+  {
+   "segment": "s7-funnel",
+   "sourceStart": 79.166667,
+   "sourceEnd": 79.9,
+   "start": 40.233333,
+   "end": 40.966666
+  },
+  {
+   "segment": "s7-funnel",
+   "sourceStart": 80.333333,
+   "sourceEnd": 81.933333,
+   "start": 40.966666,
+   "end": 42.566666
+  },
+  {
+   "segment": "s7-funnel",
+   "sourceStart": 82.3,
+   "sourceEnd": 83.166667,
+   "start": 42.566666,
+   "end": 43.433333
+  },
+  {
+   "segment": "s7-funnel",
+   "sourceStart": 83.433333,
+   "sourceEnd": 85.0,
+   "start": 43.433333,
+   "end": 45.0
+  },
+  {
+   "segment": "s7-funnel",
+   "sourceStart": 85.7,
+   "sourceEnd": 87.3,
+   "start": 45.0,
+   "end": 46.6
+  },
+  {
+   "segment": "s7-funnel",
+   "sourceStart": 87.5,
+   "sourceEnd": 88.566667,
+   "start": 46.6,
+   "end": 47.666667
+  },
+  {
+   "segment": "s7-funnel",
+   "sourceStart": 90.366667,
+   "sourceEnd": 91.633333,
+   "start": 47.666667,
+   "end": 48.933333
+  },
+  {
+   "segment": "s7-funnel",
+   "sourceStart": 92.433333,
+   "sourceEnd": 93.2,
+   "start": 48.933333,
+   "end": 49.7
+  },
+  {
+   "segment": "s8a-ways",
+   "sourceStart": 93.733333,
+   "sourceEnd": 94.1,
+   "start": 49.7,
+   "end": 50.066667
+  },
+  {
+   "segment": "s8a-ways",
+   "sourceStart": 94.3,
+   "sourceEnd": 94.9,
+   "start": 50.066667,
+   "end": 50.666667
+  },
+  {
+   "segment": "s8a-ways",
+   "sourceStart": 95.6,
+   "sourceEnd": 96.6,
+   "start": 50.666667,
+   "end": 51.666667
+  },
+  {
+   "segment": "s8a-ways",
+   "sourceStart": 96.733333,
+   "sourceEnd": 97.6,
+   "start": 51.666667,
+   "end": 52.533334
+  },
+  {
+   "segment": "s8a-ways",
+   "sourceStart": 97.966667,
+   "sourceEnd": 99.2,
+   "start": 52.533334,
+   "end": 53.766667
+  },
+  {
+   "segment": "s8b-cta",
+   "sourceStart": 99.966667,
+   "sourceEnd": 100.3,
+   "start": 53.766667,
+   "end": 54.1
+  },
+  {
+   "segment": "s8b-cta",
+   "sourceStart": 100.633333,
+   "sourceEnd": 101.566667,
+   "start": 54.1,
+   "end": 55.033334
+  },
+  {
+   "segment": "s8b-cta",
+   "sourceStart": 102.333333,
+   "sourceEnd": 106.4,
+   "start": 55.033334,
+   "end": 59.100001
+  },
+  {
+   "segment": "s8b-cta",
+   "sourceStart": 107.366667,
+   "sourceEnd": 108.2,
+   "start": 59.100001,
+   "end": 59.933334
+  }
+ ],
+ "removals": [
+  {
+   "sourceStart": 0.0,
+   "sourceEnd": 3.3,
+   "reason": "Lead-in plus false starts: 'so when when it comes to, when ...'"
+  },
+  {
+   "sourceStart": 19.92,
+   "sourceEnd": 20.7,
+   "reason": "Dead air between thesis and story"
+  },
+  {
+   "sourceStart": 31.75,
+   "sourceEnd": 35.98,
+   "reason": "'So I thought about, okay,' + 2.7 s pause; the question it introduces is used as the cold open"
+  },
+  {
+   "sourceStart": 41.36,
+   "sourceEnd": 43.98,
+   "reason": "Hook line moved to the front; 2.9 s pause"
+  },
+  {
+   "sourceStart": 47.18,
+   "sourceEnd": 57.28,
+   "reason": "Retake: 'that goes, okay, when somebody uploads the photo of their website they will get in, and when somebody uploads their, when' (wrong word, then abandoned restart)"
+  },
+  {
+   "sourceStart": 62.4,
+   "sourceEnd": 63.4,
+   "reason": "End of take 1"
+  },
+  {
+   "sourceStart": 63.4,
+   "sourceEnd": 65.6,
+   "reason": "Abandoned start: 'and the AI does this math' (stumble, restarted)"
+  },
+  {
+   "sourceStart": 69.56,
+   "sourceEnd": 71.17,
+   "reason": "Repeat: first 'of their car', restarted as 'of the car being wrapped'"
+  },
+  {
+   "sourceStart": 73.28,
+   "sourceEnd": 77.67,
+   "reason": "4.4 s pause"
+  },
+  {
+   "sourceStart": 93.2,
+   "sourceEnd": 93.72999999999999,
+   "reason": "Pause"
+  },
+  {
+   "sourceStart": 99.19999999999999,
+   "sourceEnd": 99.96000000000001,
+   "reason": "False start 'you could' before 'this thought process'"
+  },
+  {
+   "sourceStart": 108.19999999999999,
+   "sourceEnd": 110.4333,
+   "reason": "Tail"
+  },
+  {
+   "sourceStart": 39.933333,
+   "sourceEnd": 40.1,
+   "reason": "pause 0.36s trimmed to 0.18s",
+   "segment": "s1-hook"
+  },
+  {
+   "sourceStart": 3.766667,
+   "sourceEnd": 4.466667,
+   "reason": "pause 0.97s trimmed to 0.26s",
+   "segment": "s2-thesis"
+  },
+  {
+   "sourceStart": 5.033333,
+   "sourceEnd": 5.2,
+   "reason": "pause 0.36s trimmed to 0.18s",
+   "segment": "s2-thesis"
+  },
+  {
+   "sourceStart": 7.033333,
+   "sourceEnd": 7.333333,
+   "reason": "pause 0.47s trimmed to 0.18s",
+   "segment": "s2-thesis"
+  },
+  {
+   "sourceStart": 10.9,
+   "sourceEnd": 11.233333,
+   "reason": "pause 0.51s trimmed to 0.18s",
+   "segment": "s2-thesis"
+  },
+  {
+   "sourceStart": 12.8,
+   "sourceEnd": 13.433333,
+   "reason": "pause 0.81s trimmed to 0.18s",
+   "segment": "s2-thesis"
+  },
+  {
+   "sourceStart": 14.5,
+   "sourceEnd": 15.766667,
+   "reason": "pause 1.54s trimmed to 0.26s",
+   "segment": "s2-thesis"
+  },
+  {
+   "sourceStart": 17.866667,
+   "sourceEnd": 18.566667,
+   "reason": "pause 0.96s trimmed to 0.26s",
+   "segment": "s2-thesis"
+  },
+  {
+   "sourceStart": 21.166667,
+   "sourceEnd": 21.866667,
+   "reason": "pause 0.93s trimmed to 0.26s",
+   "segment": "s3-story"
+  },
+  {
+   "sourceStart": 24.333333,
+   "sourceEnd": 25.133333,
+   "reason": "pause 1.08s trimmed to 0.26s",
+   "segment": "s3-story"
+  },
+  {
+   "sourceStart": 27.066667,
+   "sourceEnd": 28.333333,
+   "reason": "pause 1.51s trimmed to 0.26s",
+   "segment": "s3-story"
+  },
+  {
+   "sourceStart": 59.6,
+   "sourceEnd": 59.7,
+   "reason": "pause 0.29s trimmed to 0.18s",
+   "segment": "s5-upload"
+  },
+  {
+   "sourceStart": 61.466667,
+   "sourceEnd": 61.733333,
+   "reason": "pause 0.45s trimmed to 0.18s",
+   "segment": "s5-upload"
+  },
+  {
+   "sourceStart": 67.4,
+   "sourceEnd": 68.066667,
+   "reason": "pause 0.87s trimmed to 0.18s",
+   "segment": "s6a-magic"
+  },
+  {
+   "sourceStart": 78.5,
+   "sourceEnd": 79.166667,
+   "reason": "pause 0.92s trimmed to 0.26s",
+   "segment": "s7-funnel"
+  },
+  {
+   "sourceStart": 79.9,
+   "sourceEnd": 80.333333,
+   "reason": "pause 0.62s trimmed to 0.18s",
+   "segment": "s7-funnel"
+  },
+  {
+   "sourceStart": 81.933333,
+   "sourceEnd": 82.3,
+   "reason": "pause 0.54s trimmed to 0.18s",
+   "segment": "s7-funnel"
+  },
+  {
+   "sourceStart": 83.166667,
+   "sourceEnd": 83.433333,
+   "reason": "pause 0.45s trimmed to 0.18s",
+   "segment": "s7-funnel"
+  },
+  {
+   "sourceStart": 85.0,
+   "sourceEnd": 85.7,
+   "reason": "pause 0.97s trimmed to 0.26s",
+   "segment": "s7-funnel"
+  },
+  {
+   "sourceStart": 87.3,
+   "sourceEnd": 87.5,
+   "reason": "pause 0.37s trimmed to 0.18s",
+   "segment": "s7-funnel"
+  },
+  {
+   "sourceStart": 88.566667,
+   "sourceEnd": 90.366667,
+   "reason": "pause 2.05s trimmed to 0.26s",
+   "segment": "s7-funnel"
+  },
+  {
+   "sourceStart": 91.633333,
+   "sourceEnd": 92.433333,
+   "reason": "pause 1.06s trimmed to 0.26s",
+   "segment": "s7-funnel"
+  },
+  {
+   "sourceStart": 94.1,
+   "sourceEnd": 94.3,
+   "reason": "pause 0.38s trimmed to 0.18s",
+   "segment": "s8a-ways"
+  },
+  {
+   "sourceStart": 94.9,
+   "sourceEnd": 95.6,
+   "reason": "pause 0.89s trimmed to 0.18s",
+   "segment": "s8a-ways"
+  },
+  {
+   "sourceStart": 96.6,
+   "sourceEnd": 96.733333,
+   "reason": "pause 0.32s trimmed to 0.18s",
+   "segment": "s8a-ways"
+  },
+  {
+   "sourceStart": 97.6,
+   "sourceEnd": 97.966667,
+   "reason": "pause 0.53s trimmed to 0.18s",
+   "segment": "s8a-ways"
+  },
+  {
+   "sourceStart": 100.3,
+   "sourceEnd": 100.633333,
+   "reason": "pause 0.51s trimmed to 0.18s",
+   "segment": "s8b-cta"
+  },
+  {
+   "sourceStart": 101.566667,
+   "sourceEnd": 102.333333,
+   "reason": "pause 1.02s trimmed to 0.26s",
+   "segment": "s8b-cta"
+  },
+  {
+   "sourceStart": 106.4,
+   "sourceEnd": 107.366667,
+   "reason": "pause 1.23s trimmed to 0.26s",
+   "segment": "s8b-cta"
+  }
+ ],
+ "segments": [
+  {
+   "id": "s1-hook",
+   "sourceStart": 35.98,
+   "sourceEnd": 41.36,
+   "why": "Cold open: 'if these people are going in to change the color of the car, why not do it before they come in?' moved to the front as the hook"
+  },
+  {
+   "id": "s2-thesis",
+   "sourceStart": 3.3,
+   "sourceEnd": 19.92,
+   "why": "Thesis. Starts at the third, clean 'when it comes to'"
+  },
+  {
+   "id": "s3-story",
+   "sourceStart": 20.7,
+   "sourceEnd": 31.75,
+   "why": "Cold-calling story, the wrap shop"
+  },
+  {
+   "id": "s4-build",
+   "sourceStart": 43.98,
+   "sourceEnd": 47.18,
+   "why": "'So I built this custom AI component into their website'"
+  },
+  {
+   "id": "s5-upload",
+   "sourceStart": 57.28,
+   "sourceEnd": 62.4,
+   "why": "Clean take: 'when somebody uploads the photo of their car ... see the end result'"
+  },
+  {
+   "id": "s6a-magic",
+   "sourceStart": 65.6,
+   "sourceEnd": 69.56,
+   "why": "Take 2, clean restart: 'and AI does its magic and spits out an image'"
+  },
+  {
+   "id": "s6b-wrapped",
+   "sourceStart": 71.17,
+   "sourceEnd": 73.28,
+   "why": "'of the car being wrapped in that color'"
+  },
+  {
+   "id": "s7-funnel",
+   "sourceStart": 77.67,
+   "sourceEnd": 93.2,
+   "why": "Quote, traffic, money, better business"
+  },
+  {
+   "id": "s8a-ways",
+   "sourceStart": 93.72999999999999,
+   "sourceEnd": 99.19999999999999,
+   "why": "'So I do this all the time, I could think of millions of different ways'"
+  },
+  {
+   "id": "s8b-cta",
+   "sourceStart": 99.96000000000001,
+   "sourceEnd": 108.19999999999999,
+   "why": "'this thought process could be applied to many different businesses ... hit me up'"
+  }
+ ]
+}

@@ -1,0 +1,2650 @@
+{
+ "duration": 59.933333,
+ "fps": 30,
+ "width": 1080,
+ "height": 1920,
+ "scenes": [
+  {
+   "id": "s00",
+   "start": 0.0,
+   "layout": "broll-split",
+   "kind": "hero",
+   "anchor": "If these",
+   "anchorTime": 0.0,
+   "end": 1.666667
+  },
+  {
+   "id": "s01",
+   "start": 1.666667,
+   "layout": "broll-split",
+   "kind": "hook-sweep",
+   "anchor": "change the color",
+   "anchorTime": 1.72,
+   "end": 3.0
+  },
+  {
+   "id": "s02",
+   "start": 3.0,
+   "layout": "punch",
+   "kind": "why-before",
+   "anchor": "why not",
+   "anchorTime": 3.06,
+   "holdReason": "Conviction beat: the hook question lands on the speaker's face",
+   "end": 5.466667
+  },
+  {
+   "id": "s03",
+   "start": 5.466667,
+   "layout": "face",
+   "kind": "thesis",
+   "anchor": "When it comes",
+   "anchorTime": 5.52,
+   "holdReason": "Thesis setup delivered to camera before the graphic",
+   "end": 7.766667
+  },
+  {
+   "id": "s04",
+   "start": 7.766667,
+   "layout": "split",
+   "kind": "not-about",
+   "anchor": "it's not about colors",
+   "anchorTime": 7.82,
+   "end": 12.933333
+  },
+  {
+   "id": "s05",
+   "start": 12.933333,
+   "layout": "punch",
+   "kind": "but-all",
+   "anchor": "but it's all",
+   "anchorTime": 13.0,
+   "end": 14.233333
+  },
+  {
+   "id": "s06",
+   "start": 14.233333,
+   "layout": "broll-split",
+   "kind": "four-steps",
+   "anchor": "visualizing",
+   "anchorTime": 14.3,
+   "holdReason": "Real scroll lands on the site's four-step process, then holds with a push-in while 'visualizing the process of your business' plays out",
+   "end": 17.433333
+  },
+  {
+   "id": "s07",
+   "start": 17.433333,
+   "layout": "face",
+   "kind": "yesterday",
+   "anchor": "So yesterday",
+   "anchorTime": 17.5,
+   "holdReason": "Personal story beat; the speaker's delivery carries it",
+   "end": 19.966667
+  },
+  {
+   "id": "s08",
+   "start": 19.966667,
+   "layout": "punch",
+   "kind": "pitching",
+   "anchor": "pitching",
+   "anchorTime": 20.02,
+   "end": 21.2
+  },
+  {
+   "id": "s09",
+   "start": 21.2,
+   "layout": "broll-split",
+   "kind": "shop-gallery",
+   "anchor": "and I came",
+   "anchorTime": 21.26,
+   "holdReason": "Continuous scroll through the shop's real recent-work gallery",
+   "end": 23.433333
+  },
+  {
+   "id": "s10",
+   "start": 23.433333,
+   "layout": "broll-split",
+   "kind": "services",
+   "anchor": "protective film",
+   "anchorTime": 23.5,
+   "end": 25.633333
+  },
+  {
+   "id": "s11",
+   "start": 25.633333,
+   "layout": "broll-split",
+   "kind": "upload-ui",
+   "anchor": "So I built",
+   "anchorTime": 25.68,
+   "holdReason": "Slow push-in on the real AI preview section while the full build sentence plays",
+   "end": 29.166667
+  },
+  {
+   "id": "s12",
+   "start": 29.166667,
+   "layout": "broll-split",
+   "kind": "upload-photo",
+   "anchor": "When somebody",
+   "anchorTime": 29.233,
+   "end": 31.266667
+  },
+  {
+   "id": "s13",
+   "start": 31.266667,
+   "layout": "broll-split",
+   "kind": "pick-lime",
+   "anchor": "they choose",
+   "anchorTime": 31.32,
+   "holdReason": "Real cursor moves to Lime Green and clicks 'Show my car'",
+   "end": 33.733333
+  },
+  {
+   "id": "s14",
+   "start": 33.733333,
+   "layout": "broll-split",
+   "kind": "ai-loader",
+   "anchor": "and AI",
+   "anchorTime": 33.8,
+   "end": 35.733333
+  },
+  {
+   "id": "s15",
+   "start": 35.733333,
+   "layout": "broll-split",
+   "kind": "reveal",
+   "anchor": "spits out",
+   "anchorTime": 35.8,
+   "holdReason": "One continuous real slider sweep from the white car to Lime Green",
+   "end": 39.033333
+  },
+  {
+   "id": "s16",
+   "start": 39.033333,
+   "layout": "face",
+   "kind": "from-there",
+   "anchor": "And from there",
+   "anchorTime": 39.1,
+   "end": 40.733333
+  },
+  {
+   "id": "s17",
+   "start": 40.733333,
+   "layout": "broll-split",
+   "kind": "quote-sent",
+   "anchor": "book a meeting",
+   "anchorTime": 40.78,
+   "holdReason": "Real page scroll past the sent quote request",
+   "end": 43.1
+  },
+  {
+   "id": "s18",
+   "start": 43.1,
+   "layout": "split",
+   "kind": "funnel",
+   "anchor": "which could lead",
+   "anchorTime": 43.16,
+   "holdReason": "Chain builds node by node on the spoken words; holds follow the speaker's pacing",
+   "end": 49.433333
+  },
+  {
+   "id": "s19",
+   "start": 49.433333,
+   "layout": "face",
+   "kind": "do-this",
+   "anchor": "So I do",
+   "anchorTime": 49.5,
+   "end": 51.4
+  },
+  {
+   "id": "s19b",
+   "start": 51.4,
+   "layout": "punch",
+   "kind": "could-think",
+   "anchor": "I could think",
+   "anchorTime": 51.46,
+   "end": 52.466667
+  },
+  {
+   "id": "s20",
+   "start": 52.466667,
+   "layout": "split",
+   "kind": "many-businesses",
+   "anchor": "millions",
+   "anchorTime": 52.533,
+   "end": 56.766667
+  },
+  {
+   "id": "s21",
+   "start": 56.766667,
+   "layout": "punch",
+   "kind": "cta",
+   "anchor": "and if you",
+   "anchorTime": 56.82,
+   "end": 59.933333
+  }
+ ],
+ "events": [
+  {
+   "time": 0.0,
+   "type": "cut",
+   "visual": "s00",
+   "anchor": "If these"
+  },
+  {
+   "time": 1.666667,
+   "type": "cut",
+   "visual": "s01",
+   "anchor": "change the color"
+  },
+  {
+   "time": 3.0,
+   "type": "cut",
+   "visual": "s02",
+   "anchor": "why not"
+  },
+  {
+   "time": 5.466667,
+   "type": "cut",
+   "visual": "s03",
+   "anchor": "When it comes"
+  },
+  {
+   "time": 7.766667,
+   "type": "cut",
+   "visual": "s04",
+   "anchor": "it's not about colors"
+  },
+  {
+   "time": 8.893,
+   "type": "word-card",
+   "visual": "s04",
+   "anchor": "colors"
+  },
+  {
+   "time": 9.26,
+   "type": "strike",
+   "visual": "s04",
+   "anchor": "colors"
+  },
+  {
+   "time": 10.933,
+   "type": "word-card",
+   "visual": "s04",
+   "anchor": "looks"
+  },
+  {
+   "time": 11.3,
+   "type": "strike",
+   "visual": "s04",
+   "anchor": "looks"
+  },
+  {
+   "time": 12.473,
+   "type": "word-card",
+   "visual": "s04",
+   "anchor": "feels"
+  },
+  {
+   "time": 12.84,
+   "type": "strike",
+   "visual": "s04",
+   "anchor": "feels"
+  },
+  {
+   "time": 12.933333,
+   "type": "cut",
+   "visual": "s05",
+   "anchor": "but it's all"
+  },
+  {
+   "time": 14.233333,
+   "type": "cut",
+   "visual": "s06",
+   "anchor": "visualizing"
+  },
+  {
+   "time": 17.433333,
+   "type": "cut",
+   "visual": "s07",
+   "anchor": "So yesterday"
+  },
+  {
+   "time": 19.966667,
+   "type": "cut",
+   "visual": "s08",
+   "anchor": "pitching"
+  },
+  {
+   "time": 21.2,
+   "type": "cut",
+   "visual": "s09",
+   "anchor": "and I came"
+  },
+  {
+   "time": 23.433333,
+   "type": "cut",
+   "visual": "s10",
+   "anchor": "protective film"
+  },
+  {
+   "time": 25.633333,
+   "type": "cut",
+   "visual": "s11",
+   "anchor": "So I built"
+  },
+  {
+   "time": 29.166667,
+   "type": "cut",
+   "visual": "s12",
+   "anchor": "When somebody"
+  },
+  {
+   "time": 29.365,
+   "type": "photo-drop",
+   "visual": "s12",
+   "anchor": "uploads"
+  },
+  {
+   "time": 31.266667,
+   "type": "cut",
+   "visual": "s13",
+   "anchor": "they choose"
+  },
+  {
+   "time": 32.068,
+   "type": "ui-select",
+   "visual": "s13",
+   "anchor": "choose"
+  },
+  {
+   "time": 33.092,
+   "type": "ui-click",
+   "visual": "s13",
+   "anchor": "the color"
+  },
+  {
+   "time": 33.733333,
+   "type": "cut",
+   "visual": "s14",
+   "anchor": "and AI"
+  },
+  {
+   "time": 35.733333,
+   "type": "cut",
+   "visual": "s15",
+   "anchor": "spits out"
+  },
+  {
+   "time": 36.074,
+   "type": "reveal",
+   "visual": "s15",
+   "anchor": "spits out"
+  },
+  {
+   "time": 38.363,
+   "type": "result",
+   "visual": "s15",
+   "anchor": "wrapped"
+  },
+  {
+   "time": 39.033333,
+   "type": "cut",
+   "visual": "s16",
+   "anchor": "And from there"
+  },
+  {
+   "time": 40.733333,
+   "type": "cut",
+   "visual": "s17",
+   "anchor": "book a meeting"
+  },
+  {
+   "time": 43.1,
+   "type": "cut",
+   "visual": "s18",
+   "anchor": "which could lead"
+  },
+  {
+   "time": 44.233,
+   "type": "node",
+   "visual": "s18",
+   "anchor": "traffic"
+  },
+  {
+   "time": 46.833,
+   "type": "node",
+   "visual": "s18",
+   "anchor": "money"
+  },
+  {
+   "time": 48.193,
+   "type": "node",
+   "visual": "s18",
+   "anchor": "better"
+  },
+  {
+   "time": 49.2,
+   "type": "pulse",
+   "visual": "s18",
+   "anchor": "right?"
+  },
+  {
+   "time": 49.433333,
+   "type": "cut",
+   "visual": "s19",
+   "anchor": "So I do"
+  },
+  {
+   "time": 51.4,
+   "type": "cut",
+   "visual": "s19b",
+   "anchor": "I could think"
+  },
+  {
+   "time": 52.466667,
+   "type": "cut",
+   "visual": "s20",
+   "anchor": "millions"
+  },
+  {
+   "time": 52.567,
+   "type": "process-row",
+   "visual": "s20",
+   "anchor": "millions"
+  },
+  {
+   "time": 53.833,
+   "type": "process-pulse",
+   "visual": "s20",
+   "anchor": "thought process"
+  },
+  {
+   "time": 55.133,
+   "type": "chips",
+   "visual": "s20",
+   "anchor": "applied"
+  },
+  {
+   "time": 55.8,
+   "type": "chips-lit",
+   "visual": "s20",
+   "anchor": "many"
+  },
+  {
+   "time": 56.766667,
+   "type": "cut",
+   "visual": "s21",
+   "anchor": "and if you"
+  },
+  {
+   "time": 58.833,
+   "type": "cta",
+   "visual": "s21",
+   "anchor": "hit me up"
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 0.6,
+   "color": "",
+   "words": [
+    {
+     "text": "If",
+     "start": 0.0,
+     "end": 0.16,
+     "sourceStart": 35.967,
+     "sourceEnd": 36.127,
+     "type": "word"
+    },
+    {
+     "text": "these",
+     "start": 0.16,
+     "end": 0.38,
+     "sourceStart": 36.127,
+     "sourceEnd": 36.347,
+     "type": "word"
+    },
+    {
+     "text": "people",
+     "start": 0.38,
+     "end": 0.6,
+     "sourceStart": 36.347,
+     "sourceEnd": 36.567,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 0.6,
+   "end": 1.32,
+   "color": "",
+   "words": [
+    {
+     "text": "are",
+     "start": 0.6,
+     "end": 0.78,
+     "sourceStart": 36.567,
+     "sourceEnd": 36.747,
+     "type": "word"
+    },
+    {
+     "text": "going",
+     "start": 0.78,
+     "end": 1.06,
+     "sourceStart": 36.747,
+     "sourceEnd": 37.027,
+     "type": "word"
+    },
+    {
+     "text": "in",
+     "start": 1.06,
+     "end": 1.32,
+     "sourceStart": 37.027,
+     "sourceEnd": 37.287,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 1.32,
+   "end": 2.1,
+   "color": "",
+   "words": [
+    {
+     "text": "to",
+     "start": 1.32,
+     "end": 1.72,
+     "sourceStart": 37.287,
+     "sourceEnd": 37.687,
+     "type": "word"
+    },
+    {
+     "text": "change",
+     "start": 1.72,
+     "end": 2.1,
+     "sourceStart": 37.687,
+     "sourceEnd": 38.067,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 2.1,
+   "end": 2.58,
+   "color": "m",
+   "words": [
+    {
+     "text": "the",
+     "start": 2.1,
+     "end": 2.34,
+     "sourceStart": 38.067,
+     "sourceEnd": 38.307,
+     "type": "word"
+    },
+    {
+     "text": "color",
+     "start": 2.34,
+     "end": 2.58,
+     "sourceStart": 38.307,
+     "sourceEnd": 38.547,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 2.58,
+   "end": 3.06,
+   "color": "",
+   "words": [
+    {
+     "text": "of",
+     "start": 2.58,
+     "end": 2.72,
+     "sourceStart": 38.547,
+     "sourceEnd": 38.687,
+     "type": "word"
+    },
+    {
+     "text": "their",
+     "start": 2.72,
+     "end": 2.86,
+     "sourceStart": 38.687,
+     "sourceEnd": 38.827,
+     "type": "word"
+    },
+    {
+     "text": "car,",
+     "start": 2.86,
+     "end": 3.06,
+     "sourceStart": 38.827,
+     "sourceEnd": 39.027,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 3.06,
+   "end": 3.5,
+   "color": "",
+   "words": [
+    {
+     "text": "why",
+     "start": 3.06,
+     "end": 3.3,
+     "sourceStart": 39.027,
+     "sourceEnd": 39.267,
+     "type": "word"
+    },
+    {
+     "text": "not",
+     "start": 3.3,
+     "end": 3.5,
+     "sourceStart": 39.267,
+     "sourceEnd": 39.467,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 3.5,
+   "end": 3.9,
+   "color": "",
+   "words": [
+    {
+     "text": "do",
+     "start": 3.5,
+     "end": 3.72,
+     "sourceStart": 39.467,
+     "sourceEnd": 39.687,
+     "type": "word"
+    },
+    {
+     "text": "it",
+     "start": 3.72,
+     "end": 3.86,
+     "sourceStart": 39.687,
+     "sourceEnd": 39.827,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 3.9,
+   "end": 4.58,
+   "color": "l",
+   "words": [
+    {
+     "text": "before",
+     "start": 3.967,
+     "end": 4.28,
+     "sourceStart": 40.1,
+     "sourceEnd": 40.413,
+     "type": "word"
+    },
+    {
+     "text": "they",
+     "start": 4.28,
+     "end": 4.58,
+     "sourceStart": 40.413,
+     "sourceEnd": 40.713,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 4.58,
+   "end": 5.453,
+   "color": "l",
+   "words": [
+    {
+     "text": "come",
+     "start": 4.58,
+     "end": 4.86,
+     "sourceStart": 40.713,
+     "sourceEnd": 40.993,
+     "type": "word"
+    },
+    {
+     "text": "in?",
+     "start": 4.86,
+     "end": 5.04,
+     "sourceStart": 40.993,
+     "sourceEnd": 41.173,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 5.453,
+   "end": 6.12,
+   "color": "",
+   "words": [
+    {
+     "text": "When",
+     "start": 5.52,
+     "end": 5.7,
+     "sourceStart": 3.587,
+     "sourceEnd": 3.767,
+     "type": "word"
+    },
+    {
+     "text": "it",
+     "start": 5.82,
+     "end": 5.96,
+     "sourceStart": 4.587,
+     "sourceEnd": 4.727,
+     "type": "word"
+    },
+    {
+     "text": "comes",
+     "start": 5.96,
+     "end": 6.12,
+     "sourceStart": 4.727,
+     "sourceEnd": 4.887,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 6.12,
+   "end": 6.74,
+   "color": "",
+   "words": [
+    {
+     "text": "to",
+     "start": 6.12,
+     "end": 6.26,
+     "sourceStart": 4.887,
+     "sourceEnd": 5.027,
+     "type": "word"
+    },
+    {
+     "text": "businesses",
+     "start": 6.267,
+     "end": 6.74,
+     "sourceStart": 5.2,
+     "sourceEnd": 5.673,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 6.74,
+   "end": 7.82,
+   "color": "",
+   "words": [
+    {
+     "text": "having",
+     "start": 6.74,
+     "end": 7.16,
+     "sourceStart": 5.673,
+     "sourceEnd": 6.093,
+     "type": "word"
+    },
+    {
+     "text": "a",
+     "start": 7.16,
+     "end": 7.42,
+     "sourceStart": 6.093,
+     "sourceEnd": 6.353,
+     "type": "word"
+    },
+    {
+     "text": "website,",
+     "start": 7.42,
+     "end": 7.82,
+     "sourceStart": 6.353,
+     "sourceEnd": 6.753,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 7.82,
+   "end": 8.96,
+   "color": "",
+   "words": [
+    {
+     "text": "it's",
+     "start": 7.82,
+     "end": 8.1,
+     "sourceStart": 6.753,
+     "sourceEnd": 7.033,
+     "type": "word"
+    },
+    {
+     "text": "not",
+     "start": 8.3,
+     "end": 8.52,
+     "sourceStart": 7.533,
+     "sourceEnd": 7.753,
+     "type": "word"
+    },
+    {
+     "text": "about",
+     "start": 8.52,
+     "end": 8.96,
+     "sourceStart": 7.753,
+     "sourceEnd": 8.193,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 8.96,
+   "end": 9.46,
+   "color": "o",
+   "words": [
+    {
+     "text": "colors,",
+     "start": 8.96,
+     "end": 9.46,
+     "sourceStart": 8.193,
+     "sourceEnd": 8.693,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 9.46,
+   "end": 10.18,
+   "color": "",
+   "words": [
+    {
+     "text": "it's",
+     "start": 9.46,
+     "end": 9.72,
+     "sourceStart": 8.693,
+     "sourceEnd": 8.953,
+     "type": "word"
+    },
+    {
+     "text": "not",
+     "start": 9.72,
+     "end": 9.82,
+     "sourceStart": 8.953,
+     "sourceEnd": 9.053,
+     "type": "word"
+    },
+    {
+     "text": "about",
+     "start": 9.82,
+     "end": 10.18,
+     "sourceStart": 9.053,
+     "sourceEnd": 9.413,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 10.18,
+   "end": 11.0,
+   "color": "",
+   "words": [
+    {
+     "text": "how",
+     "start": 10.18,
+     "end": 10.5,
+     "sourceStart": 9.413,
+     "sourceEnd": 9.733,
+     "type": "word"
+    },
+    {
+     "text": "the",
+     "start": 10.5,
+     "end": 10.74,
+     "sourceStart": 9.733,
+     "sourceEnd": 9.973,
+     "type": "word"
+    },
+    {
+     "text": "website",
+     "start": 10.74,
+     "end": 11.0,
+     "sourceStart": 9.973,
+     "sourceEnd": 10.233,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 11.0,
+   "end": 11.38,
+   "color": "o",
+   "words": [
+    {
+     "text": "looks,",
+     "start": 11.0,
+     "end": 11.38,
+     "sourceStart": 10.233,
+     "sourceEnd": 10.613,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 11.38,
+   "end": 12.0,
+   "color": "",
+   "words": [
+    {
+     "text": "it's",
+     "start": 11.38,
+     "end": 11.667,
+     "sourceStart": 10.613,
+     "sourceEnd": 10.9,
+     "type": "word"
+    },
+    {
+     "text": "not",
+     "start": 11.76,
+     "end": 11.82,
+     "sourceStart": 11.327,
+     "sourceEnd": 11.387,
+     "type": "word"
+    },
+    {
+     "text": "about",
+     "start": 11.82,
+     "end": 12.0,
+     "sourceStart": 11.387,
+     "sourceEnd": 11.567,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 12.0,
+   "end": 12.54,
+   "color": "",
+   "words": [
+    {
+     "text": "how",
+     "start": 12.0,
+     "end": 12.24,
+     "sourceStart": 11.567,
+     "sourceEnd": 11.807,
+     "type": "word"
+    },
+    {
+     "text": "website",
+     "start": 12.24,
+     "end": 12.54,
+     "sourceStart": 11.807,
+     "sourceEnd": 12.107,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 12.54,
+   "end": 13.0,
+   "color": "o",
+   "words": [
+    {
+     "text": "feels,",
+     "start": 12.54,
+     "end": 13.0,
+     "sourceStart": 12.107,
+     "sourceEnd": 12.567,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 13.0,
+   "end": 13.54,
+   "color": "",
+   "words": [
+    {
+     "text": "but",
+     "start": 13.0,
+     "end": 13.233,
+     "sourceStart": 12.567,
+     "sourceEnd": 12.8,
+     "type": "word"
+    },
+    {
+     "text": "it's",
+     "start": 13.34,
+     "end": 13.54,
+     "sourceStart": 13.54,
+     "sourceEnd": 13.74,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 13.54,
+   "end": 14.233,
+   "color": "",
+   "words": [
+    {
+     "text": "all",
+     "start": 13.54,
+     "end": 13.66,
+     "sourceStart": 13.74,
+     "sourceEnd": 13.86,
+     "type": "word"
+    },
+    {
+     "text": "about",
+     "start": 13.66,
+     "end": 13.94,
+     "sourceStart": 13.86,
+     "sourceEnd": 14.14,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 14.233,
+   "end": 15.16,
+   "color": "m",
+   "words": [
+    {
+     "text": "visualizing",
+     "start": 14.3,
+     "end": 15.16,
+     "sourceStart": 15.767,
+     "sourceEnd": 16.627,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 15.16,
+   "end": 16.0,
+   "color": "m",
+   "words": [
+    {
+     "text": "the",
+     "start": 15.16,
+     "end": 15.56,
+     "sourceStart": 16.627,
+     "sourceEnd": 17.027,
+     "type": "word"
+    },
+    {
+     "text": "process",
+     "start": 15.56,
+     "end": 16.0,
+     "sourceStart": 17.027,
+     "sourceEnd": 17.467,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 16.0,
+   "end": 17.5,
+   "color": "",
+   "words": [
+    {
+     "text": "of",
+     "start": 16.0,
+     "end": 16.4,
+     "sourceStart": 17.467,
+     "sourceEnd": 17.867,
+     "type": "word"
+    },
+    {
+     "text": "your",
+     "start": 16.6,
+     "end": 16.94,
+     "sourceStart": 18.767,
+     "sourceEnd": 19.107,
+     "type": "word"
+    },
+    {
+     "text": "business.",
+     "start": 16.94,
+     "end": 17.5,
+     "sourceStart": 19.107,
+     "sourceEnd": 19.667,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 17.5,
+   "end": 18.393,
+   "color": "",
+   "words": [
+    {
+     "text": "So",
+     "start": 17.5,
+     "end": 17.767,
+     "sourceStart": 19.667,
+     "sourceEnd": 19.933,
+     "type": "word"
+    },
+    {
+     "text": "yesterday",
+     "start": 17.96,
+     "end": 18.233,
+     "sourceStart": 20.893,
+     "sourceEnd": 21.167,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 18.393,
+   "end": 18.86,
+   "color": "",
+   "words": [
+    {
+     "text": "I",
+     "start": 18.46,
+     "end": 18.72,
+     "sourceStart": 22.093,
+     "sourceEnd": 22.353,
+     "type": "word"
+    },
+    {
+     "text": "was",
+     "start": 18.72,
+     "end": 18.86,
+     "sourceStart": 22.353,
+     "sourceEnd": 22.493,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 18.86,
+   "end": 19.46,
+   "color": "m",
+   "words": [
+    {
+     "text": "cold",
+     "start": 18.86,
+     "end": 19.1,
+     "sourceStart": 22.493,
+     "sourceEnd": 22.733,
+     "type": "word"
+    },
+    {
+     "text": "calling",
+     "start": 19.1,
+     "end": 19.46,
+     "sourceStart": 22.733,
+     "sourceEnd": 23.093,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 19.46,
+   "end": 20.36,
+   "color": "",
+   "words": [
+    {
+     "text": "and",
+     "start": 19.46,
+     "end": 20.02,
+     "sourceStart": 23.093,
+     "sourceEnd": 23.653,
+     "type": "word"
+    },
+    {
+     "text": "pitching",
+     "start": 20.02,
+     "end": 20.36,
+     "sourceStart": 23.653,
+     "sourceEnd": 23.993,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 20.36,
+   "end": 21.26,
+   "color": "",
+   "words": [
+    {
+     "text": "my",
+     "start": 20.36,
+     "end": 20.7,
+     "sourceStart": 23.993,
+     "sourceEnd": 24.333,
+     "type": "word"
+    },
+    {
+     "text": "ideas,",
+     "start": 20.9,
+     "end": 21.26,
+     "sourceStart": 25.333,
+     "sourceEnd": 25.693,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 21.26,
+   "end": 21.92,
+   "color": "",
+   "words": [
+    {
+     "text": "and",
+     "start": 21.26,
+     "end": 21.66,
+     "sourceStart": 25.693,
+     "sourceEnd": 26.093,
+     "type": "word"
+    },
+    {
+     "text": "I",
+     "start": 21.66,
+     "end": 21.74,
+     "sourceStart": 26.093,
+     "sourceEnd": 26.173,
+     "type": "word"
+    },
+    {
+     "text": "came",
+     "start": 21.74,
+     "end": 21.92,
+     "sourceStart": 26.173,
+     "sourceEnd": 26.353,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 21.92,
+   "end": 22.566,
+   "color": "",
+   "words": [
+    {
+     "text": "across",
+     "start": 21.92,
+     "end": 22.14,
+     "sourceStart": 26.353,
+     "sourceEnd": 26.573,
+     "type": "word"
+    },
+    {
+     "text": "this",
+     "start": 22.14,
+     "end": 22.44,
+     "sourceStart": 26.573,
+     "sourceEnd": 26.873,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 22.566,
+   "end": 23.5,
+   "color": "m",
+   "words": [
+    {
+     "text": "car",
+     "start": 22.633,
+     "end": 22.92,
+     "sourceStart": 28.333,
+     "sourceEnd": 28.62,
+     "type": "word"
+    },
+    {
+     "text": "wrapping,",
+     "start": 22.92,
+     "end": 23.5,
+     "sourceStart": 28.62,
+     "sourceEnd": 29.2,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 23.5,
+   "end": 24.56,
+   "color": "",
+   "words": [
+    {
+     "text": "protective",
+     "start": 23.5,
+     "end": 24.1,
+     "sourceStart": 29.2,
+     "sourceEnd": 29.8,
+     "type": "word"
+    },
+    {
+     "text": "film",
+     "start": 24.1,
+     "end": 24.56,
+     "sourceStart": 29.8,
+     "sourceEnd": 30.26,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 24.56,
+   "end": 25.68,
+   "color": "",
+   "words": [
+    {
+     "text": "installing",
+     "start": 24.56,
+     "end": 24.98,
+     "sourceStart": 30.26,
+     "sourceEnd": 30.68,
+     "type": "word"
+    },
+    {
+     "text": "business.",
+     "start": 24.98,
+     "end": 25.68,
+     "sourceStart": 30.68,
+     "sourceEnd": 31.38,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 25.68,
+   "end": 26.6,
+   "color": "",
+   "words": [
+    {
+     "text": "So",
+     "start": 25.68,
+     "end": 26.033,
+     "sourceStart": 31.38,
+     "sourceEnd": 31.733,
+     "type": "word"
+    },
+    {
+     "text": "I",
+     "start": 26.34,
+     "end": 26.4,
+     "sourceStart": 44.273,
+     "sourceEnd": 44.333,
+     "type": "word"
+    },
+    {
+     "text": "built",
+     "start": 26.4,
+     "end": 26.6,
+     "sourceStart": 44.333,
+     "sourceEnd": 44.533,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 26.6,
+   "end": 27.04,
+   "color": "",
+   "words": [
+    {
+     "text": "this",
+     "start": 26.6,
+     "end": 26.74,
+     "sourceStart": 44.533,
+     "sourceEnd": 44.673,
+     "type": "word"
+    },
+    {
+     "text": "custom",
+     "start": 26.74,
+     "end": 27.04,
+     "sourceStart": 44.673,
+     "sourceEnd": 44.973,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 27.04,
+   "end": 27.78,
+   "color": "m",
+   "words": [
+    {
+     "text": "AI",
+     "start": 27.04,
+     "end": 27.28,
+     "sourceStart": 44.973,
+     "sourceEnd": 45.213,
+     "type": "word"
+    },
+    {
+     "text": "component",
+     "start": 27.28,
+     "end": 27.78,
+     "sourceStart": 45.213,
+     "sourceEnd": 45.713,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 27.78,
+   "end": 28.62,
+   "color": "",
+   "words": [
+    {
+     "text": "into",
+     "start": 27.78,
+     "end": 28.44,
+     "sourceStart": 45.713,
+     "sourceEnd": 46.373,
+     "type": "word"
+    },
+    {
+     "text": "their",
+     "start": 28.44,
+     "end": 28.62,
+     "sourceStart": 46.373,
+     "sourceEnd": 46.553,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 28.62,
+   "end": 29.166,
+   "color": "",
+   "words": [
+    {
+     "text": "website.",
+     "start": 28.62,
+     "end": 28.94,
+     "sourceStart": 46.553,
+     "sourceEnd": 46.873,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 29.166,
+   "end": 29.76,
+   "color": "",
+   "words": [
+    {
+     "text": "When",
+     "start": 29.233,
+     "end": 29.4,
+     "sourceStart": 57.267,
+     "sourceEnd": 57.433,
+     "type": "word"
+    },
+    {
+     "text": "somebody",
+     "start": 29.4,
+     "end": 29.76,
+     "sourceStart": 57.433,
+     "sourceEnd": 57.793,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 29.76,
+   "end": 30.7,
+   "color": "",
+   "words": [
+    {
+     "text": "uploads",
+     "start": 29.76,
+     "end": 30.02,
+     "sourceStart": 57.793,
+     "sourceEnd": 58.053,
+     "type": "word"
+    },
+    {
+     "text": "the",
+     "start": 30.02,
+     "end": 30.24,
+     "sourceStart": 58.053,
+     "sourceEnd": 58.273,
+     "type": "word"
+    },
+    {
+     "text": "photo",
+     "start": 30.24,
+     "end": 30.7,
+     "sourceStart": 58.273,
+     "sourceEnd": 58.733,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 30.7,
+   "end": 31.32,
+   "color": "",
+   "words": [
+    {
+     "text": "of",
+     "start": 30.7,
+     "end": 30.82,
+     "sourceStart": 58.733,
+     "sourceEnd": 58.853,
+     "type": "word"
+    },
+    {
+     "text": "their",
+     "start": 30.82,
+     "end": 31.0,
+     "sourceStart": 58.853,
+     "sourceEnd": 59.033,
+     "type": "word"
+    },
+    {
+     "text": "car,",
+     "start": 31.0,
+     "end": 31.32,
+     "sourceStart": 59.033,
+     "sourceEnd": 59.353,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 31.32,
+   "end": 31.86,
+   "color": "",
+   "words": [
+    {
+     "text": "they",
+     "start": 31.32,
+     "end": 31.567,
+     "sourceStart": 59.353,
+     "sourceEnd": 59.6,
+     "type": "word"
+    },
+    {
+     "text": "choose",
+     "start": 31.64,
+     "end": 31.86,
+     "sourceStart": 59.773,
+     "sourceEnd": 59.993,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 31.86,
+   "end": 32.22,
+   "color": "m",
+   "words": [
+    {
+     "text": "the",
+     "start": 31.86,
+     "end": 32.02,
+     "sourceStart": 59.993,
+     "sourceEnd": 60.153,
+     "type": "word"
+    },
+    {
+     "text": "color",
+     "start": 32.02,
+     "end": 32.22,
+     "sourceStart": 60.153,
+     "sourceEnd": 60.353,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 32.22,
+   "end": 32.96,
+   "color": "",
+   "words": [
+    {
+     "text": "and",
+     "start": 32.22,
+     "end": 32.68,
+     "sourceStart": 60.353,
+     "sourceEnd": 60.813,
+     "type": "word"
+    },
+    {
+     "text": "see",
+     "start": 32.68,
+     "end": 32.96,
+     "sourceStart": 60.813,
+     "sourceEnd": 61.093,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 32.96,
+   "end": 33.8,
+   "color": "l",
+   "words": [
+    {
+     "text": "the",
+     "start": 32.96,
+     "end": 33.16,
+     "sourceStart": 61.093,
+     "sourceEnd": 61.293,
+     "type": "word"
+    },
+    {
+     "text": "end",
+     "start": 33.16,
+     "end": 33.333,
+     "sourceStart": 61.293,
+     "sourceEnd": 61.467,
+     "type": "word"
+    },
+    {
+     "text": "result,",
+     "start": 33.46,
+     "end": 33.8,
+     "sourceStart": 61.86,
+     "sourceEnd": 62.2,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 33.8,
+   "end": 34.28,
+   "color": "",
+   "words": [
+    {
+     "text": "and",
+     "start": 33.8,
+     "end": 34.0,
+     "sourceStart": 62.2,
+     "sourceEnd": 62.4,
+     "type": "word"
+    },
+    {
+     "text": "AI",
+     "start": 34.1,
+     "end": 34.28,
+     "sourceStart": 65.7,
+     "sourceEnd": 65.88,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 34.28,
+   "end": 35.04,
+   "color": "m",
+   "words": [
+    {
+     "text": "does",
+     "start": 34.28,
+     "end": 34.52,
+     "sourceStart": 65.88,
+     "sourceEnd": 66.12,
+     "type": "word"
+    },
+    {
+     "text": "its",
+     "start": 34.52,
+     "end": 34.74,
+     "sourceStart": 66.12,
+     "sourceEnd": 66.34,
+     "type": "word"
+    },
+    {
+     "text": "magic",
+     "start": 34.74,
+     "end": 35.04,
+     "sourceStart": 66.34,
+     "sourceEnd": 66.64,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 35.04,
+   "end": 36.4,
+   "color": "",
+   "words": [
+    {
+     "text": "and",
+     "start": 35.04,
+     "end": 35.48,
+     "sourceStart": 66.64,
+     "sourceEnd": 67.08,
+     "type": "word"
+    },
+    {
+     "text": "spits",
+     "start": 35.8,
+     "end": 36.16,
+     "sourceStart": 68.067,
+     "sourceEnd": 68.427,
+     "type": "word"
+    },
+    {
+     "text": "out",
+     "start": 36.16,
+     "end": 36.4,
+     "sourceStart": 68.427,
+     "sourceEnd": 68.667,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 36.4,
+   "end": 36.9,
+   "color": "",
+   "words": [
+    {
+     "text": "an",
+     "start": 36.4,
+     "end": 36.56,
+     "sourceStart": 68.667,
+     "sourceEnd": 68.827,
+     "type": "word"
+    },
+    {
+     "text": "image",
+     "start": 36.56,
+     "end": 36.9,
+     "sourceStart": 68.827,
+     "sourceEnd": 69.167,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 36.9,
+   "end": 37.78,
+   "color": "",
+   "words": [
+    {
+     "text": "of",
+     "start": 36.9,
+     "end": 37.3,
+     "sourceStart": 69.167,
+     "sourceEnd": 69.567,
+     "type": "word"
+    },
+    {
+     "text": "the",
+     "start": 37.38,
+     "end": 37.54,
+     "sourceStart": 71.247,
+     "sourceEnd": 71.407,
+     "type": "word"
+    },
+    {
+     "text": "car",
+     "start": 37.54,
+     "end": 37.78,
+     "sourceStart": 71.407,
+     "sourceEnd": 71.647,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 37.78,
+   "end": 38.38,
+   "color": "",
+   "words": [
+    {
+     "text": "being",
+     "start": 37.78,
+     "end": 38.06,
+     "sourceStart": 71.647,
+     "sourceEnd": 71.927,
+     "type": "word"
+    },
+    {
+     "text": "wrapped",
+     "start": 38.06,
+     "end": 38.38,
+     "sourceStart": 71.927,
+     "sourceEnd": 72.247,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 38.38,
+   "end": 39.1,
+   "color": "l",
+   "words": [
+    {
+     "text": "in",
+     "start": 38.38,
+     "end": 38.62,
+     "sourceStart": 72.247,
+     "sourceEnd": 72.487,
+     "type": "word"
+    },
+    {
+     "text": "that",
+     "start": 38.62,
+     "end": 38.8,
+     "sourceStart": 72.487,
+     "sourceEnd": 72.667,
+     "type": "word"
+    },
+    {
+     "text": "color.",
+     "start": 38.8,
+     "end": 39.1,
+     "sourceStart": 72.667,
+     "sourceEnd": 72.967,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 39.1,
+   "end": 39.94,
+   "color": "",
+   "words": [
+    {
+     "text": "And",
+     "start": 39.1,
+     "end": 39.4,
+     "sourceStart": 72.967,
+     "sourceEnd": 73.267,
+     "type": "word"
+    },
+    {
+     "text": "from",
+     "start": 39.48,
+     "end": 39.72,
+     "sourceStart": 77.747,
+     "sourceEnd": 77.987,
+     "type": "word"
+    },
+    {
+     "text": "there,",
+     "start": 39.72,
+     "end": 39.94,
+     "sourceStart": 77.987,
+     "sourceEnd": 78.207,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 39.94,
+   "end": 40.78,
+   "color": "",
+   "words": [
+    {
+     "text": "they",
+     "start": 39.94,
+     "end": 40.233,
+     "sourceStart": 78.207,
+     "sourceEnd": 78.5,
+     "type": "word"
+    },
+    {
+     "text": "could",
+     "start": 40.4,
+     "end": 40.54,
+     "sourceStart": 79.333,
+     "sourceEnd": 79.473,
+     "type": "word"
+    },
+    {
+     "text": "just",
+     "start": 40.54,
+     "end": 40.78,
+     "sourceStart": 79.473,
+     "sourceEnd": 79.713,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 40.78,
+   "end": 41.42,
+   "color": "l",
+   "words": [
+    {
+     "text": "book",
+     "start": 40.78,
+     "end": 40.967,
+     "sourceStart": 79.713,
+     "sourceEnd": 79.9,
+     "type": "word"
+    },
+    {
+     "text": "a",
+     "start": 41.1,
+     "end": 41.2,
+     "sourceStart": 80.467,
+     "sourceEnd": 80.567,
+     "type": "word"
+    },
+    {
+     "text": "meeting",
+     "start": 41.2,
+     "end": 41.42,
+     "sourceStart": 80.567,
+     "sourceEnd": 80.787,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 41.42,
+   "end": 41.96,
+   "color": "",
+   "words": [
+    {
+     "text": "or",
+     "start": 41.42,
+     "end": 41.74,
+     "sourceStart": 80.787,
+     "sourceEnd": 81.107,
+     "type": "word"
+    },
+    {
+     "text": "get",
+     "start": 41.74,
+     "end": 41.96,
+     "sourceStart": 81.107,
+     "sourceEnd": 81.327,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 41.96,
+   "end": 42.3,
+   "color": "l",
+   "words": [
+    {
+     "text": "a",
+     "start": 41.96,
+     "end": 42.08,
+     "sourceStart": 81.327,
+     "sourceEnd": 81.447,
+     "type": "word"
+    },
+    {
+     "text": "quote",
+     "start": 42.08,
+     "end": 42.3,
+     "sourceStart": 81.447,
+     "sourceEnd": 81.667,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 42.3,
+   "end": 43.16,
+   "color": "",
+   "words": [
+    {
+     "text": "for",
+     "start": 42.3,
+     "end": 42.567,
+     "sourceStart": 81.667,
+     "sourceEnd": 81.933,
+     "type": "word"
+    },
+    {
+     "text": "the",
+     "start": 42.62,
+     "end": 42.8,
+     "sourceStart": 82.353,
+     "sourceEnd": 82.533,
+     "type": "word"
+    },
+    {
+     "text": "businesses,",
+     "start": 42.8,
+     "end": 43.16,
+     "sourceStart": 82.533,
+     "sourceEnd": 82.893,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 43.16,
+   "end": 43.7,
+   "color": "",
+   "words": [
+    {
+     "text": "which",
+     "start": 43.16,
+     "end": 43.433,
+     "sourceStart": 82.893,
+     "sourceEnd": 83.167,
+     "type": "word"
+    },
+    {
+     "text": "could",
+     "start": 43.54,
+     "end": 43.7,
+     "sourceStart": 83.54,
+     "sourceEnd": 83.7,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 43.7,
+   "end": 44.3,
+   "color": "",
+   "words": [
+    {
+     "text": "lead",
+     "start": 43.7,
+     "end": 43.94,
+     "sourceStart": 83.7,
+     "sourceEnd": 83.94,
+     "type": "word"
+    },
+    {
+     "text": "to",
+     "start": 43.94,
+     "end": 44.3,
+     "sourceStart": 83.94,
+     "sourceEnd": 84.3,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 44.3,
+   "end": 45.173,
+   "color": "l",
+   "words": [
+    {
+     "text": "more",
+     "start": 44.3,
+     "end": 44.64,
+     "sourceStart": 84.3,
+     "sourceEnd": 84.64,
+     "type": "word"
+    },
+    {
+     "text": "traffic",
+     "start": 44.64,
+     "end": 45.0,
+     "sourceStart": 84.64,
+     "sourceEnd": 85.0,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 45.173,
+   "end": 45.92,
+   "color": "",
+   "words": [
+    {
+     "text": "coming",
+     "start": 45.24,
+     "end": 45.68,
+     "sourceStart": 85.94,
+     "sourceEnd": 86.38,
+     "type": "word"
+    },
+    {
+     "text": "into",
+     "start": 45.68,
+     "end": 45.92,
+     "sourceStart": 86.38,
+     "sourceEnd": 86.62,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 45.92,
+   "end": 46.36,
+   "color": "",
+   "words": [
+    {
+     "text": "the",
+     "start": 45.92,
+     "end": 46.08,
+     "sourceStart": 86.62,
+     "sourceEnd": 86.78,
+     "type": "word"
+    },
+    {
+     "text": "business,",
+     "start": 46.08,
+     "end": 46.36,
+     "sourceStart": 86.78,
+     "sourceEnd": 87.06,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 46.36,
+   "end": 46.9,
+   "color": "",
+   "words": [
+    {
+     "text": "which",
+     "start": 46.36,
+     "end": 46.6,
+     "sourceStart": 87.06,
+     "sourceEnd": 87.3,
+     "type": "word"
+    },
+    {
+     "text": "means",
+     "start": 46.72,
+     "end": 46.9,
+     "sourceStart": 87.62,
+     "sourceEnd": 87.8,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 46.9,
+   "end": 47.46,
+   "color": "l",
+   "words": [
+    {
+     "text": "more",
+     "start": 46.9,
+     "end": 47.14,
+     "sourceStart": 87.8,
+     "sourceEnd": 88.04,
+     "type": "word"
+    },
+    {
+     "text": "money,",
+     "start": 47.14,
+     "end": 47.46,
+     "sourceStart": 88.04,
+     "sourceEnd": 88.36,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 47.46,
+   "end": 48.0,
+   "color": "",
+   "words": [
+    {
+     "text": "which",
+     "start": 47.46,
+     "end": 47.667,
+     "sourceStart": 88.36,
+     "sourceEnd": 88.567,
+     "type": "word"
+    },
+    {
+     "text": "means",
+     "start": 47.82,
+     "end": 48.0,
+     "sourceStart": 90.52,
+     "sourceEnd": 90.7,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 48.0,
+   "end": 48.58,
+   "color": "",
+   "words": [
+    {
+     "text": "overall",
+     "start": 48.0,
+     "end": 48.26,
+     "sourceStart": 90.7,
+     "sourceEnd": 90.96,
+     "type": "word"
+    },
+    {
+     "text": "better",
+     "start": 48.26,
+     "end": 48.58,
+     "sourceStart": 90.96,
+     "sourceEnd": 91.28,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 48.58,
+   "end": 49.5,
+   "color": "l",
+   "words": [
+    {
+     "text": "business,",
+     "start": 48.58,
+     "end": 48.933,
+     "sourceStart": 91.28,
+     "sourceEnd": 91.633,
+     "type": "word"
+    },
+    {
+     "text": "right?",
+     "start": 49.2,
+     "end": 49.5,
+     "sourceStart": 92.7,
+     "sourceEnd": 93.0,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 49.5,
+   "end": 50.3,
+   "color": "",
+   "words": [
+    {
+     "text": "So",
+     "start": 49.5,
+     "end": 49.7,
+     "sourceStart": 93.0,
+     "sourceEnd": 93.2,
+     "type": "word"
+    },
+    {
+     "text": "I",
+     "start": 49.84,
+     "end": 50.067,
+     "sourceStart": 93.873,
+     "sourceEnd": 94.1,
+     "type": "word"
+    },
+    {
+     "text": "do",
+     "start": 50.14,
+     "end": 50.3,
+     "sourceStart": 94.373,
+     "sourceEnd": 94.533,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 50.3,
+   "end": 50.86,
+   "color": "",
+   "words": [
+    {
+     "text": "this",
+     "start": 50.3,
+     "end": 50.52,
+     "sourceStart": 94.533,
+     "sourceEnd": 94.753,
+     "type": "word"
+    },
+    {
+     "text": "all",
+     "start": 50.667,
+     "end": 50.86,
+     "sourceStart": 95.6,
+     "sourceEnd": 95.793,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 50.86,
+   "end": 51.46,
+   "color": "",
+   "words": [
+    {
+     "text": "the",
+     "start": 50.86,
+     "end": 51.12,
+     "sourceStart": 95.793,
+     "sourceEnd": 96.053,
+     "type": "word"
+    },
+    {
+     "text": "time.",
+     "start": 51.12,
+     "end": 51.46,
+     "sourceStart": 96.053,
+     "sourceEnd": 96.393,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 51.46,
+   "end": 52.22,
+   "color": "",
+   "words": [
+    {
+     "text": "I",
+     "start": 51.46,
+     "end": 51.667,
+     "sourceStart": 96.393,
+     "sourceEnd": 96.6,
+     "type": "word"
+    },
+    {
+     "text": "could",
+     "start": 51.8,
+     "end": 52.0,
+     "sourceStart": 96.867,
+     "sourceEnd": 97.067,
+     "type": "word"
+    },
+    {
+     "text": "think",
+     "start": 52.0,
+     "end": 52.22,
+     "sourceStart": 97.067,
+     "sourceEnd": 97.287,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 52.22,
+   "end": 52.8,
+   "color": "m",
+   "words": [
+    {
+     "text": "of",
+     "start": 52.22,
+     "end": 52.5,
+     "sourceStart": 97.287,
+     "sourceEnd": 97.567,
+     "type": "word"
+    },
+    {
+     "text": "millions",
+     "start": 52.533,
+     "end": 52.8,
+     "sourceStart": 97.967,
+     "sourceEnd": 98.233,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 52.8,
+   "end": 53.22,
+   "color": "",
+   "words": [
+    {
+     "text": "of",
+     "start": 52.8,
+     "end": 53.0,
+     "sourceStart": 98.233,
+     "sourceEnd": 98.433,
+     "type": "word"
+    },
+    {
+     "text": "different",
+     "start": 53.0,
+     "end": 53.04,
+     "sourceStart": 98.433,
+     "sourceEnd": 98.473,
+     "type": "word"
+    },
+    {
+     "text": "ways",
+     "start": 53.0,
+     "end": 53.22,
+     "sourceStart": 98.433,
+     "sourceEnd": 98.653,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 53.22,
+   "end": 54.68,
+   "color": "m",
+   "words": [
+    {
+     "text": "this",
+     "start": 53.22,
+     "end": 53.767,
+     "sourceStart": 98.653,
+     "sourceEnd": 99.2,
+     "type": "word"
+    },
+    {
+     "text": "thought",
+     "start": 53.9,
+     "end": 54.1,
+     "sourceStart": 100.1,
+     "sourceEnd": 100.3,
+     "type": "word"
+    },
+    {
+     "text": "process",
+     "start": 54.18,
+     "end": 54.68,
+     "sourceStart": 100.713,
+     "sourceEnd": 101.213,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 54.68,
+   "end": 55.46,
+   "color": "",
+   "words": [
+    {
+     "text": "could",
+     "start": 54.68,
+     "end": 55.033,
+     "sourceStart": 101.213,
+     "sourceEnd": 101.567,
+     "type": "word"
+    },
+    {
+     "text": "be",
+     "start": 55.1,
+     "end": 55.2,
+     "sourceStart": 102.4,
+     "sourceEnd": 102.5,
+     "type": "word"
+    },
+    {
+     "text": "applied",
+     "start": 55.2,
+     "end": 55.46,
+     "sourceStart": 102.5,
+     "sourceEnd": 102.76,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 55.46,
+   "end": 56.04,
+   "color": "",
+   "words": [
+    {
+     "text": "to",
+     "start": 55.46,
+     "end": 55.8,
+     "sourceStart": 102.76,
+     "sourceEnd": 103.1,
+     "type": "word"
+    },
+    {
+     "text": "many",
+     "start": 55.8,
+     "end": 56.04,
+     "sourceStart": 103.1,
+     "sourceEnd": 103.34,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 56.04,
+   "end": 56.82,
+   "color": "m",
+   "words": [
+    {
+     "text": "different",
+     "start": 56.04,
+     "end": 56.32,
+     "sourceStart": 103.34,
+     "sourceEnd": 103.62,
+     "type": "word"
+    },
+    {
+     "text": "businesses,",
+     "start": 56.32,
+     "end": 56.82,
+     "sourceStart": 103.62,
+     "sourceEnd": 104.12,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 56.82,
+   "end": 57.4,
+   "color": "",
+   "words": [
+    {
+     "text": "and",
+     "start": 56.82,
+     "end": 57.1,
+     "sourceStart": 104.12,
+     "sourceEnd": 104.4,
+     "type": "word"
+    },
+    {
+     "text": "if",
+     "start": 57.1,
+     "end": 57.32,
+     "sourceStart": 104.4,
+     "sourceEnd": 104.62,
+     "type": "word"
+    },
+    {
+     "text": "you",
+     "start": 57.32,
+     "end": 57.4,
+     "sourceStart": 104.62,
+     "sourceEnd": 104.7,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 57.4,
+   "end": 57.88,
+   "color": "l",
+   "words": [
+    {
+     "text": "want",
+     "start": 57.4,
+     "end": 57.6,
+     "sourceStart": 104.7,
+     "sourceEnd": 104.9,
+     "type": "word"
+    },
+    {
+     "text": "the",
+     "start": 57.6,
+     "end": 57.74,
+     "sourceStart": 104.9,
+     "sourceEnd": 105.04,
+     "type": "word"
+    },
+    {
+     "text": "same",
+     "start": 57.74,
+     "end": 57.88,
+     "sourceStart": 105.04,
+     "sourceEnd": 105.18,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 57.88,
+   "end": 58.2,
+   "color": "",
+   "words": [
+    {
+     "text": "for",
+     "start": 57.88,
+     "end": 58.06,
+     "sourceStart": 105.18,
+     "sourceEnd": 105.36,
+     "type": "word"
+    },
+    {
+     "text": "your",
+     "start": 58.06,
+     "end": 58.2,
+     "sourceStart": 105.36,
+     "sourceEnd": 105.5,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 58.2,
+   "end": 58.9,
+   "color": "",
+   "words": [
+    {
+     "text": "business,",
+     "start": 58.2,
+     "end": 58.54,
+     "sourceStart": 105.5,
+     "sourceEnd": 105.84,
+     "type": "word"
+    },
+    {
+     "text": "then",
+     "start": 58.54,
+     "end": 58.9,
+     "sourceStart": 105.84,
+     "sourceEnd": 106.2,
+     "type": "word"
+    }
+   ]
+  },
+  {
+   "start": 58.9,
+   "end": 59.933,
+   "color": "l",
+   "words": [
+    {
+     "text": "hit",
+     "start": 58.9,
+     "end": 59.1,
+     "sourceStart": 106.2,
+     "sourceEnd": 106.4,
+     "type": "word"
+    },
+    {
+     "text": "me",
+     "start": 59.22,
+     "end": 59.38,
+     "sourceStart": 107.487,
+     "sourceEnd": 107.647,
+     "type": "word"
+    },
+    {
+     "text": "up.",
+     "start": 59.38,
+     "end": 59.54,
+     "sourceStart": 107.647,
+     "sourceEnd": 107.807,
+     "type": "word"
+    }
+   ]
+  }
+ ]
+}

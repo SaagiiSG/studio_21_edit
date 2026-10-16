@@ -1,0 +1,279 @@
+[
+ {
+  "scene": "s00",
+  "sourceSceneId": "site-hero",
+  "asset": "assets/hero.mp4",
+  "sha256": "ac02b15e44409192c0c215c903345ad51a220c06c269d5007f5e774a04fba674",
+  "sourceStart": 0.0,
+  "sourceEnd": 1.667,
+  "upstream": {
+   "file": "raw/screen-recording.mov",
+   "sourceStart": 93.35,
+   "sourceEnd": 95.0,
+   "crop": {
+    "x": 60,
+    "y": 72,
+    "w": 2040,
+    "h": 1662
+   },
+   "speed": 0.99,
+   "provenance": "Saagii's screen recording of the live Arson Wraps site (2026-10-15)"
+  },
+  "description": "Site hero 'CHANGE YOUR COLOUR. KEEP YOUR PAINT.' with nav logo",
+  "framing": {
+   "9x16": "Top panel 1080x880; crop keeps the full UI action and its result visible"
+  }
+ },
+ {
+  "scene": "s01",
+  "sourceSceneId": "site-hook-sweep",
+  "asset": "assets/hook-sweep.mp4",
+  "sha256": "f5d283bfc543e8282965d418519a1a27c66bd47c268983c11e5c4151d6548c48",
+  "sourceStart": 0.0,
+  "sourceEnd": 1.333,
+  "upstream": {
+   "file": "raw/screen-recording.mov",
+   "sourceStart": 74.35,
+   "sourceEnd": 75.45,
+   "crop": {
+    "x": 51,
+    "y": 477,
+    "w": 1410,
+    "h": 1149
+   },
+   "speed": 0.825,
+   "provenance": "Saagii's screen recording of the live Arson Wraps site (2026-10-15)"
+  },
+  "description": "Before/after slider, second sweep (right to left): white GR86 -> Lime Green",
+  "framing": {
+   "9x16": "Top panel 1080x880; crop keeps the full UI action and its result visible"
+  }
+ },
+ {
+  "scene": "s06",
+  "sourceSceneId": "site-four-steps",
+  "asset": "assets/four-steps.mp4",
+  "sha256": "6745a91b6dd82b76490a475be2bfd9ab6660bbac94fe154fb9915b36abc4a202",
+  "sourceStart": 0.0,
+  "sourceEnd": 3.2,
+  "upstream": {
+   "file": "raw/screen-recording.mov",
+   "sourceStart": 57.3,
+   "sourceEnd": 58.0,
+   "crop": {
+    "x": 60,
+    "y": 210,
+    "w": 1740,
+    "h": 1418
+   },
+   "speed": 0.6,
+   "heldFrame": true,
+   "provenance": "Saagii's screen recording of the live Arson Wraps site (2026-10-15)"
+  },
+  "description": "'FOUR STEPS, PHOTO TO FINISH.' real scroll into the process section at 0.6x, then a held frame with push-in (ends before the FAQ section)",
+  "framing": {
+   "9x16": "Top panel 1080x880; crop keeps the full UI action and its result visible"
+  }
+ },
+ {
+  "scene": "s09",
+  "sourceSceneId": "site-shop-gallery",
+  "asset": "assets/shop-gallery.mp4",
+  "sha256": "51f60c09ee062245c6de9224d83ca3a35f0161ac220201d86b4a4d4dc8c11449",
+  "sourceStart": 0.0,
+  "sourceEnd": 2.233,
+  "upstream": {
+   "file": "raw/screen-recording.mov",
+   "sourceStart": 56.35,
+   "sourceEnd": 56.62,
+   "crop": {
+    "x": 60,
+    "y": 210,
+    "w": 2040,
+    "h": 1662
+   },
+   "speed": 0.6,
+   "heldFrame": true,
+   "provenance": "Saagii's screen recording of the live Arson Wraps site (2026-10-15)"
+  },
+  "description": "'LATELY IN THE SHOP.' real scroll into the recent-work gallery at 0.6x, then a held frame with push-in",
+  "framing": {
+   "9x16": "Top panel 1080x880; crop keeps the full UI action and its result visible"
+  }
+ },
+ {
+  "scene": "s10",
+  "sourceSceneId": "site-services",
+  "asset": "assets/services.mp4",
+  "sha256": "364acc6cabcf27b8e032d36e6d1bf8c02fdaa857e7bd9479383f9c2d54bd4cca",
+  "sourceStart": 0.0,
+  "sourceEnd": 2.2,
+  "upstream": {
+   "file": "raw/screen-recording.mov",
+   "sourceStart": 52.1,
+   "sourceEnd": 53.7,
+   "crop": {
+    "x": 840,
+    "y": 210,
+    "w": 2040,
+    "h": 1662
+   },
+   "speed": 0.727,
+   "provenance": "Saagii's screen recording of the live Arson Wraps site (2026-10-15)"
+  },
+  "description": "Services: vehicle wraps, partial wraps, paint protection film",
+  "framing": {
+   "9x16": "Top panel 1080x880; crop keeps the full UI action and its result visible"
+  }
+ },
+ {
+  "scene": "s11",
+  "sourceSceneId": "site-upload-ui",
+  "asset": "assets/upload-ui.mp4",
+  "sha256": "a6c26f7be5f80384d2c111043ac3383c0a633ac6c0699d3d5473602ced3dbd18",
+  "sourceStart": 0.0,
+  "sourceEnd": 3.533,
+  "upstream": {
+   "file": "raw/screen-recording.mov",
+   "sourceStart": 2.0,
+   "sourceEnd": 3.75,
+   "crop": {
+    "x": 1440,
+    "y": 510,
+    "w": 1440,
+    "h": 1173
+   },
+   "speed": 0.495,
+   "provenance": "Saagii's screen recording of the live Arson Wraps site (2026-10-15)"
+  },
+  "description": "'AI WRAP PREVIEW / UPLOAD YOUR CAR. SEE IT WRAPPED.' section",
+  "framing": {
+   "9x16": "Top panel 1080x880; crop keeps the full UI action and its result visible"
+  }
+ },
+ {
+  "scene": "s12",
+  "sourceSceneId": "site-upload-photo",
+  "asset": "assets/upload-photo.mp4",
+  "sha256": "8061d6d093627220e39a83b928c28fd2b07a9da111057e7a17380a8f122d8f9c",
+  "sourceStart": 0.0,
+  "sourceEnd": 2.1,
+  "upstream": {
+   "file": "raw/screen-recording.mov",
+   "sourceStart": 8.75,
+   "sourceEnd": 10.55,
+   "crop": {
+    "x": 51,
+    "y": 384,
+    "w": 1410,
+    "h": 1149
+   },
+   "speed": 0.857,
+   "provenance": "Saagii's screen recording of the live Arson Wraps site (2026-10-15)"
+  },
+  "description": "Photo of the white GR86 drops into the upload panel",
+  "framing": {
+   "9x16": "Top panel 1080x880; crop keeps the full UI action and its result visible"
+  }
+ },
+ {
+  "scene": "s13",
+  "sourceSceneId": "site-pick-lime",
+  "asset": "assets/pick-lime.mp4",
+  "sha256": "055de06e0d5c9e4102c327627a0d5f00b2ed2f0fc45371fd44a2ac9dafd879cc",
+  "sourceStart": 0.0,
+  "sourceEnd": 2.467,
+  "upstream": {
+   "file": "raw/screen-recording.mov",
+   "sourceStart": 10.9,
+   "sourceEnd": 12.9,
+   "crop": {
+    "x": 1470,
+    "y": 735,
+    "w": 1410,
+    "h": 1149
+   },
+   "speed": 0.811,
+   "provenance": "Saagii's screen recording of the live Arson Wraps site (2026-10-15)"
+  },
+  "description": "Cursor picks Lime Green and clicks 'Show my car in Lime Green'",
+  "framing": {
+   "9x16": "Top panel 1080x880; crop keeps the full UI action and its result visible"
+  }
+ },
+ {
+  "scene": "s14",
+  "sourceSceneId": "site-ai-loader",
+  "asset": "assets/ai-loader.mp4",
+  "sha256": "89d4a358747ba11a294e5f7c84feec19a252169a4e43c360b38378b925e66646",
+  "sourceStart": 0.0,
+  "sourceEnd": 2.0,
+  "upstream": {
+   "file": "raw/screen-recording.mov",
+   "sourceStart": 13.0,
+   "sourceEnd": 15.0,
+   "crop": {
+    "x": 51,
+    "y": 420,
+    "w": 1410,
+    "h": 1149
+   },
+   "speed": 1.0,
+   "provenance": "Saagii's screen recording of the live Arson Wraps site (2026-10-15)"
+  },
+  "description": "'Wrapping your car...' loader on the uploaded photo",
+  "framing": {
+   "9x16": "Top panel 1080x880; crop keeps the full UI action and its result visible"
+  }
+ },
+ {
+  "scene": "s15",
+  "sourceSceneId": "site-reveal",
+  "asset": "assets/reveal.mp4",
+  "sha256": "3c0e8dc9a1595ec7b254b2e7531ad9c707b2a0f847bc52856c0f92d897d1dc29",
+  "sourceStart": 0.0,
+  "sourceEnd": 3.3,
+  "upstream": {
+   "file": "raw/screen-recording.mov",
+   "sourceStart": 70.75,
+   "sourceEnd": 73.95,
+   "crop": {
+    "x": 51,
+    "y": 477,
+    "w": 1410,
+    "h": 1149
+   },
+   "speed": 0.97,
+   "provenance": "Saagii's screen recording of the live Arson Wraps site (2026-10-15)"
+  },
+  "description": "Loader resolves into the before/after slider; first sweep to Lime Green",
+  "framing": {
+   "9x16": "Top panel 1080x880; crop keeps the full UI action and its result visible"
+  }
+ },
+ {
+  "scene": "s17",
+  "sourceSceneId": "site-quote-sent",
+  "asset": "assets/quote-sent.mp4",
+  "sha256": "7bdf33ecf2abbeb41ba9cc74b61714cdc277e0b600d56e059fbb10179ba1ab51",
+  "sourceStart": 0.0,
+  "sourceEnd": 2.367,
+  "upstream": {
+   "file": "raw/screen-recording.mov",
+   "sourceStart": 91.4,
+   "sourceEnd": 92.6,
+   "crop": {
+    "x": 1410,
+    "y": 216,
+    "w": 1470,
+    "h": 1198
+   },
+   "speed": 0.507,
+   "provenance": "Saagii's screen recording of the live Arson Wraps site (2026-10-15)"
+  },
+  "description": "'Thanks! Arson Wraps has your photos and will get back to you.'",
+  "framing": {
+   "9x16": "Top panel 1080x880; crop keeps the full UI action and its result visible"
+  }
+ }
+]
