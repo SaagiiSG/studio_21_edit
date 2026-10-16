@@ -1,0 +1,1043 @@
+{
+ "text": "I gave myself one hour to build an AI video editor because it was taking 30 minutes to one hour to edit a single video, which was not good. But it took quite a lot of time, which I will tell you in the end of the video. But the basic thing goes like this. You put in your video, raw video, then AI analyzes it and it cuts the data spaces and it adds in the caption and it adds b -roll on top of it. And all I have to do is export it, put some background music on it, then it's done. Post it. And it took me five hours to build the version one of it and this is far from the vision I had but it's something The video you're watching right now is edited by this editor So I would say this is a win and this was episode two of making my tuition by January 15th",
+ "audio_duration_secs": 0.0,
+ "language": "en",
+ "provider": "faster-whisper/large-v3 (local)",
+ "words": [
+  {
+   "text": "I",
+   "start": 0.0,
+   "end": 0.42,
+   "probability": 0.74
+  },
+  {
+   "text": "gave",
+   "start": 0.42,
+   "end": 0.72,
+   "probability": 0.978
+  },
+  {
+   "text": "myself",
+   "start": 0.72,
+   "end": 0.98,
+   "probability": 0.989
+  },
+  {
+   "text": "one",
+   "start": 0.98,
+   "end": 1.18,
+   "probability": 0.658
+  },
+  {
+   "text": "hour",
+   "start": 1.18,
+   "end": 1.38,
+   "probability": 0.995
+  },
+  {
+   "text": "to",
+   "start": 1.38,
+   "end": 1.54,
+   "probability": 0.994
+  },
+  {
+   "text": "build",
+   "start": 1.54,
+   "end": 1.74,
+   "probability": 0.97
+  },
+  {
+   "text": "an",
+   "start": 1.74,
+   "end": 1.9,
+   "probability": 0.946
+  },
+  {
+   "text": "AI",
+   "start": 1.9,
+   "end": 2.08,
+   "probability": 0.912
+  },
+  {
+   "text": "video",
+   "start": 2.08,
+   "end": 2.38,
+   "probability": 0.938
+  },
+  {
+   "text": "editor",
+   "start": 2.38,
+   "end": 2.76,
+   "probability": 0.986
+  },
+  {
+   "text": "because",
+   "start": 2.76,
+   "end": 3.34,
+   "probability": 0.517
+  },
+  {
+   "text": "it",
+   "start": 3.34,
+   "end": 3.5,
+   "probability": 0.988
+  },
+  {
+   "text": "was",
+   "start": 3.5,
+   "end": 3.62,
+   "probability": 0.99
+  },
+  {
+   "text": "taking",
+   "start": 3.62,
+   "end": 3.82,
+   "probability": 0.987
+  },
+  {
+   "text": "30",
+   "start": 3.82,
+   "end": 4.12,
+   "probability": 0.938
+  },
+  {
+   "text": "minutes",
+   "start": 4.12,
+   "end": 4.38,
+   "probability": 0.952
+  },
+  {
+   "text": "to",
+   "start": 4.38,
+   "end": 4.52,
+   "probability": 0.985
+  },
+  {
+   "text": "one",
+   "start": 4.52,
+   "end": 4.64,
+   "probability": 0.799
+  },
+  {
+   "text": "hour",
+   "start": 4.64,
+   "end": 4.8,
+   "probability": 0.985
+  },
+  {
+   "text": "to",
+   "start": 4.8,
+   "end": 4.98,
+   "probability": 0.982
+  },
+  {
+   "text": "edit",
+   "start": 4.98,
+   "end": 5.2,
+   "probability": 0.985
+  },
+  {
+   "text": "a",
+   "start": 5.2,
+   "end": 5.58,
+   "probability": 0.973
+  },
+  {
+   "text": "single",
+   "start": 5.58,
+   "end": 6.02,
+   "probability": 0.984
+  },
+  {
+   "text": "video,",
+   "start": 6.02,
+   "end": 6.38,
+   "probability": 0.999
+  },
+  {
+   "text": "which",
+   "start": 6.6,
+   "end": 6.76,
+   "probability": 0.997
+  },
+  {
+   "text": "was",
+   "start": 6.76,
+   "end": 6.9,
+   "probability": 0.992
+  },
+  {
+   "text": "not",
+   "start": 6.9,
+   "end": 7.08,
+   "probability": 0.999
+  },
+  {
+   "text": "good.",
+   "start": 7.08,
+   "end": 7.28,
+   "probability": 0.998
+  },
+  {
+   "text": "But",
+   "start": 7.48,
+   "end": 7.74,
+   "probability": 0.984
+  },
+  {
+   "text": "it",
+   "start": 7.74,
+   "end": 7.9,
+   "probability": 0.985
+  },
+  {
+   "text": "took",
+   "start": 7.9,
+   "end": 8.0,
+   "probability": 0.998
+  },
+  {
+   "text": "quite",
+   "start": 8.0,
+   "end": 8.24,
+   "probability": 0.996
+  },
+  {
+   "text": "a",
+   "start": 8.24,
+   "end": 8.34,
+   "probability": 1.0
+  },
+  {
+   "text": "lot",
+   "start": 8.34,
+   "end": 8.5,
+   "probability": 0.992
+  },
+  {
+   "text": "of",
+   "start": 8.5,
+   "end": 8.62,
+   "probability": 0.999
+  },
+  {
+   "text": "time,",
+   "start": 8.62,
+   "end": 8.88,
+   "probability": 1.0
+  },
+  {
+   "text": "which",
+   "start": 8.98,
+   "end": 9.26,
+   "probability": 0.997
+  },
+  {
+   "text": "I",
+   "start": 9.26,
+   "end": 9.36,
+   "probability": 0.994
+  },
+  {
+   "text": "will",
+   "start": 9.36,
+   "end": 9.46,
+   "probability": 0.975
+  },
+  {
+   "text": "tell",
+   "start": 9.46,
+   "end": 9.64,
+   "probability": 0.98
+  },
+  {
+   "text": "you",
+   "start": 9.64,
+   "end": 9.88,
+   "probability": 0.997
+  },
+  {
+   "text": "in",
+   "start": 9.88,
+   "end": 10.18,
+   "probability": 0.863
+  },
+  {
+   "text": "the",
+   "start": 10.18,
+   "end": 10.32,
+   "probability": 0.999
+  },
+  {
+   "text": "end",
+   "start": 10.32,
+   "end": 10.72,
+   "probability": 0.999
+  },
+  {
+   "text": "of",
+   "start": 10.72,
+   "end": 10.88,
+   "probability": 0.999
+  },
+  {
+   "text": "the",
+   "start": 10.88,
+   "end": 10.94,
+   "probability": 0.998
+  },
+  {
+   "text": "video.",
+   "start": 10.94,
+   "end": 11.24,
+   "probability": 1.0
+  },
+  {
+   "text": "But",
+   "start": 11.46,
+   "end": 11.7,
+   "probability": 0.993
+  },
+  {
+   "text": "the",
+   "start": 11.7,
+   "end": 11.8,
+   "probability": 0.998
+  },
+  {
+   "text": "basic",
+   "start": 11.8,
+   "end": 12.14,
+   "probability": 0.999
+  },
+  {
+   "text": "thing",
+   "start": 12.14,
+   "end": 12.76,
+   "probability": 0.995
+  },
+  {
+   "text": "goes",
+   "start": 12.76,
+   "end": 13.08,
+   "probability": 0.999
+  },
+  {
+   "text": "like",
+   "start": 13.08,
+   "end": 13.3,
+   "probability": 0.999
+  },
+  {
+   "text": "this.",
+   "start": 13.3,
+   "end": 13.52,
+   "probability": 0.999
+  },
+  {
+   "text": "You",
+   "start": 13.66,
+   "end": 13.98,
+   "probability": 0.996
+  },
+  {
+   "text": "put",
+   "start": 13.98,
+   "end": 14.42,
+   "probability": 0.998
+  },
+  {
+   "text": "in",
+   "start": 14.42,
+   "end": 14.62,
+   "probability": 0.998
+  },
+  {
+   "text": "your",
+   "start": 14.62,
+   "end": 14.78,
+   "probability": 0.998
+  },
+  {
+   "text": "video,",
+   "start": 14.78,
+   "end": 15.16,
+   "probability": 0.971
+  },
+  {
+   "text": "raw",
+   "start": 15.34,
+   "end": 15.68,
+   "probability": 0.865
+  },
+  {
+   "text": "video,",
+   "start": 15.68,
+   "end": 16.02,
+   "probability": 0.997
+  },
+  {
+   "text": "then",
+   "start": 16.22,
+   "end": 16.78,
+   "probability": 0.996
+  },
+  {
+   "text": "AI",
+   "start": 16.78,
+   "end": 17.36,
+   "probability": 0.993
+  },
+  {
+   "text": "analyzes",
+   "start": 17.36,
+   "end": 18.14,
+   "probability": 0.995
+  },
+  {
+   "text": "it",
+   "start": 18.14,
+   "end": 18.38,
+   "probability": 0.999
+  },
+  {
+   "text": "and",
+   "start": 18.38,
+   "end": 18.68,
+   "probability": 0.732
+  },
+  {
+   "text": "it",
+   "start": 18.68,
+   "end": 18.74,
+   "probability": 0.996
+  },
+  {
+   "text": "cuts",
+   "start": 18.74,
+   "end": 19.02,
+   "probability": 0.999
+  },
+  {
+   "text": "the",
+   "start": 19.02,
+   "end": 19.18,
+   "probability": 0.998
+  },
+  {
+   "text": "data",
+   "start": 19.18,
+   "end": 19.36,
+   "probability": 0.43
+  },
+  {
+   "text": "spaces",
+   "start": 19.36,
+   "end": 19.7,
+   "probability": 0.997
+  },
+  {
+   "text": "and",
+   "start": 19.7,
+   "end": 20.22,
+   "probability": 0.978
+  },
+  {
+   "text": "it",
+   "start": 20.22,
+   "end": 20.28,
+   "probability": 0.803
+  },
+  {
+   "text": "adds",
+   "start": 20.28,
+   "end": 20.62,
+   "probability": 0.999
+  },
+  {
+   "text": "in",
+   "start": 20.62,
+   "end": 20.82,
+   "probability": 0.998
+  },
+  {
+   "text": "the",
+   "start": 20.82,
+   "end": 20.9,
+   "probability": 1.0
+  },
+  {
+   "text": "caption",
+   "start": 20.9,
+   "end": 21.3,
+   "probability": 0.998
+  },
+  {
+   "text": "and",
+   "start": 21.3,
+   "end": 21.74,
+   "probability": 0.989
+  },
+  {
+   "text": "it",
+   "start": 21.74,
+   "end": 21.86,
+   "probability": 0.618
+  },
+  {
+   "text": "adds",
+   "start": 21.86,
+   "end": 22.4,
+   "probability": 0.998
+  },
+  {
+   "text": "b",
+   "start": 22.4,
+   "end": 22.7,
+   "probability": 0.449
+  },
+  {
+   "text": "-roll",
+   "start": 22.7,
+   "end": 22.88,
+   "probability": 0.993
+  },
+  {
+   "text": "on",
+   "start": 22.88,
+   "end": 23.02,
+   "probability": 0.926
+  },
+  {
+   "text": "top",
+   "start": 23.02,
+   "end": 23.26,
+   "probability": 1.0
+  },
+  {
+   "text": "of",
+   "start": 23.26,
+   "end": 23.44,
+   "probability": 1.0
+  },
+  {
+   "text": "it.",
+   "start": 23.44,
+   "end": 23.6,
+   "probability": 1.0
+  },
+  {
+   "text": "And",
+   "start": 23.72,
+   "end": 23.92,
+   "probability": 0.994
+  },
+  {
+   "text": "all",
+   "start": 23.92,
+   "end": 24.16,
+   "probability": 1.0
+  },
+  {
+   "text": "I",
+   "start": 24.16,
+   "end": 24.34,
+   "probability": 0.999
+  },
+  {
+   "text": "have",
+   "start": 24.34,
+   "end": 24.5,
+   "probability": 1.0
+  },
+  {
+   "text": "to",
+   "start": 24.5,
+   "end": 24.62,
+   "probability": 1.0
+  },
+  {
+   "text": "do",
+   "start": 24.62,
+   "end": 24.76,
+   "probability": 1.0
+  },
+  {
+   "text": "is",
+   "start": 24.76,
+   "end": 24.9,
+   "probability": 0.999
+  },
+  {
+   "text": "export",
+   "start": 24.9,
+   "end": 25.24,
+   "probability": 0.999
+  },
+  {
+   "text": "it,",
+   "start": 25.24,
+   "end": 25.56,
+   "probability": 1.0
+  },
+  {
+   "text": "put",
+   "start": 25.64,
+   "end": 25.86,
+   "probability": 1.0
+  },
+  {
+   "text": "some",
+   "start": 25.86,
+   "end": 26.08,
+   "probability": 1.0
+  },
+  {
+   "text": "background",
+   "start": 26.08,
+   "end": 26.38,
+   "probability": 1.0
+  },
+  {
+   "text": "music",
+   "start": 26.38,
+   "end": 26.7,
+   "probability": 1.0
+  },
+  {
+   "text": "on",
+   "start": 26.7,
+   "end": 26.94,
+   "probability": 1.0
+  },
+  {
+   "text": "it,",
+   "start": 26.94,
+   "end": 27.14,
+   "probability": 1.0
+  },
+  {
+   "text": "then",
+   "start": 27.16,
+   "end": 27.48,
+   "probability": 0.996
+  },
+  {
+   "text": "it's",
+   "start": 27.48,
+   "end": 28.06,
+   "probability": 1.0
+  },
+  {
+   "text": "done.",
+   "start": 28.06,
+   "end": 28.2,
+   "probability": 1.0
+  },
+  {
+   "text": "Post",
+   "start": 28.3,
+   "end": 28.62,
+   "probability": 0.996
+  },
+  {
+   "text": "it.",
+   "start": 28.62,
+   "end": 28.78,
+   "probability": 0.47
+  },
+  {
+   "text": "And",
+   "start": 28.78,
+   "end": 29.26,
+   "probability": 0.608
+  },
+  {
+   "text": "it",
+   "start": 29.26,
+   "end": 29.52,
+   "probability": 0.908
+  },
+  {
+   "text": "took",
+   "start": 29.52,
+   "end": 29.74,
+   "probability": 0.997
+  },
+  {
+   "text": "me",
+   "start": 29.74,
+   "end": 29.9,
+   "probability": 0.711
+  },
+  {
+   "text": "five",
+   "start": 29.9,
+   "end": 30.18,
+   "probability": 0.494
+  },
+  {
+   "text": "hours",
+   "start": 30.18,
+   "end": 30.5,
+   "probability": 0.996
+  },
+  {
+   "text": "to",
+   "start": 30.5,
+   "end": 30.68,
+   "probability": 0.992
+  },
+  {
+   "text": "build",
+   "start": 30.68,
+   "end": 30.88,
+   "probability": 0.987
+  },
+  {
+   "text": "the",
+   "start": 30.88,
+   "end": 31.06,
+   "probability": 0.919
+  },
+  {
+   "text": "version",
+   "start": 31.06,
+   "end": 31.34,
+   "probability": 0.986
+  },
+  {
+   "text": "one",
+   "start": 31.34,
+   "end": 31.54,
+   "probability": 0.548
+  },
+  {
+   "text": "of",
+   "start": 31.54,
+   "end": 31.76,
+   "probability": 0.993
+  },
+  {
+   "text": "it",
+   "start": 31.76,
+   "end": 31.92,
+   "probability": 0.997
+  },
+  {
+   "text": "and",
+   "start": 31.92,
+   "end": 32.26,
+   "probability": 0.393
+  },
+  {
+   "text": "this",
+   "start": 32.26,
+   "end": 32.76,
+   "probability": 0.97
+  },
+  {
+   "text": "is",
+   "start": 32.76,
+   "end": 32.9,
+   "probability": 0.975
+  },
+  {
+   "text": "far",
+   "start": 32.9,
+   "end": 33.08,
+   "probability": 0.994
+  },
+  {
+   "text": "from",
+   "start": 33.08,
+   "end": 33.38,
+   "probability": 0.998
+  },
+  {
+   "text": "the",
+   "start": 33.38,
+   "end": 33.54,
+   "probability": 0.997
+  },
+  {
+   "text": "vision",
+   "start": 33.54,
+   "end": 33.7,
+   "probability": 0.859
+  },
+  {
+   "text": "I",
+   "start": 33.7,
+   "end": 33.9,
+   "probability": 0.963
+  },
+  {
+   "text": "had",
+   "start": 33.9,
+   "end": 34.14,
+   "probability": 0.998
+  },
+  {
+   "text": "but",
+   "start": 34.14,
+   "end": 34.58,
+   "probability": 0.816
+  },
+  {
+   "text": "it's",
+   "start": 34.58,
+   "end": 34.98,
+   "probability": 0.964
+  },
+  {
+   "text": "something",
+   "start": 34.98,
+   "end": 35.22,
+   "probability": 0.994
+  },
+  {
+   "text": "The",
+   "start": 35.22,
+   "end": 35.72,
+   "probability": 0.103
+  },
+  {
+   "text": "video",
+   "start": 35.72,
+   "end": 36.04,
+   "probability": 0.972
+  },
+  {
+   "text": "you're",
+   "start": 36.04,
+   "end": 36.32,
+   "probability": 0.889
+  },
+  {
+   "text": "watching",
+   "start": 36.32,
+   "end": 36.62,
+   "probability": 1.0
+  },
+  {
+   "text": "right",
+   "start": 36.62,
+   "end": 36.84,
+   "probability": 0.998
+  },
+  {
+   "text": "now",
+   "start": 36.84,
+   "end": 37.04,
+   "probability": 0.995
+  },
+  {
+   "text": "is",
+   "start": 37.04,
+   "end": 37.24,
+   "probability": 0.983
+  },
+  {
+   "text": "edited",
+   "start": 37.24,
+   "end": 37.68,
+   "probability": 0.988
+  },
+  {
+   "text": "by",
+   "start": 37.68,
+   "end": 38.08,
+   "probability": 0.998
+  },
+  {
+   "text": "this",
+   "start": 38.08,
+   "end": 38.4,
+   "probability": 0.991
+  },
+  {
+   "text": "editor",
+   "start": 38.4,
+   "end": 38.84,
+   "probability": 0.988
+  },
+  {
+   "text": "So",
+   "start": 38.84,
+   "end": 39.44,
+   "probability": 0.765
+  },
+  {
+   "text": "I",
+   "start": 39.44,
+   "end": 39.6,
+   "probability": 0.982
+  },
+  {
+   "text": "would",
+   "start": 39.6,
+   "end": 39.7,
+   "probability": 1.0
+  },
+  {
+   "text": "say",
+   "start": 39.7,
+   "end": 39.86,
+   "probability": 1.0
+  },
+  {
+   "text": "this",
+   "start": 39.86,
+   "end": 40.02,
+   "probability": 0.998
+  },
+  {
+   "text": "is",
+   "start": 40.02,
+   "end": 40.16,
+   "probability": 0.998
+  },
+  {
+   "text": "a",
+   "start": 40.16,
+   "end": 40.26,
+   "probability": 0.935
+  },
+  {
+   "text": "win",
+   "start": 40.26,
+   "end": 40.42,
+   "probability": 0.994
+  },
+  {
+   "text": "and",
+   "start": 40.42,
+   "end": 40.8,
+   "probability": 0.886
+  },
+  {
+   "text": "this",
+   "start": 40.8,
+   "end": 40.94,
+   "probability": 0.982
+  },
+  {
+   "text": "was",
+   "start": 40.94,
+   "end": 41.08,
+   "probability": 0.694
+  },
+  {
+   "text": "episode",
+   "start": 41.08,
+   "end": 41.36,
+   "probability": 0.966
+  },
+  {
+   "text": "two",
+   "start": 41.36,
+   "end": 41.88,
+   "probability": 0.558
+  },
+  {
+   "text": "of",
+   "start": 41.88,
+   "end": 42.32,
+   "probability": 0.997
+  },
+  {
+   "text": "making",
+   "start": 42.32,
+   "end": 42.64,
+   "probability": 0.985
+  },
+  {
+   "text": "my",
+   "start": 42.64,
+   "end": 42.9,
+   "probability": 0.998
+  },
+  {
+   "text": "tuition",
+   "start": 42.9,
+   "end": 43.36,
+   "probability": 0.9
+  },
+  {
+   "text": "by",
+   "start": 43.36,
+   "end": 43.78,
+   "probability": 0.994
+  },
+  {
+   "text": "January",
+   "start": 43.78,
+   "end": 44.18,
+   "probability": 0.909
+  },
+  {
+   "text": "15th",
+   "start": 44.18,
+   "end": 44.66,
+   "probability": 0.979
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.76,
+   "text": "I gave myself one hour to build an AI video editor"
+  },
+  {
+   "start": 2.76,
+   "end": 7.28,
+   "text": "because it was taking 30 minutes to one hour to edit a single video, which was not good."
+  },
+  {
+   "start": 7.48,
+   "end": 11.24,
+   "text": "But it took quite a lot of time, which I will tell you in the end of the video."
+  },
+  {
+   "start": 11.46,
+   "end": 13.52,
+   "text": "But the basic thing goes like this."
+  },
+  {
+   "start": 13.66,
+   "end": 19.7,
+   "text": "You put in your video, raw video, then AI analyzes it and it cuts the data spaces"
+  },
+  {
+   "start": 19.7,
+   "end": 23.6,
+   "text": "and it adds in the caption and it adds b-roll on top of it."
+  },
+  {
+   "start": 23.72,
+   "end": 28.2,
+   "text": "And all I have to do is export it, put some background music on it, then it's done."
+  },
+  {
+   "start": 28.3,
+   "end": 28.78,
+   "text": "Post it."
+  },
+  {
+   "start": 28.78,
+   "end": 35.22,
+   "text": "And it took me five hours to build the version one of it and this is far from the vision I had but it's something"
+  },
+  {
+   "start": 35.22,
+   "end": 38.84,
+   "text": "The video you're watching right now is edited by this editor"
+  },
+  {
+   "start": 38.84,
+   "end": 44.66,
+   "text": "So I would say this is a win and this was episode two of making my tuition by January 15th"
+  }
+ ]
+}

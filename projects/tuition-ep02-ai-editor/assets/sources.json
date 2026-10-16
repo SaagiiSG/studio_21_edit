@@ -1,0 +1,16 @@
+{
+ "fps": 30,
+ "duration": 101.6,
+ "takes": [
+  {
+   "file": "raw/58E1AF89-9A9F-47FB-B00B-DCE134184D86.MP4",
+   "offset": 0.0,
+   "duration": 101.6,
+   "frames": 3048,
+   "hdrToneMapped": false,
+   "colorTransfer": "bt709",
+   "driveId": "15b7quJnZxUanMgvsE2KI8GT3EvOdiHFh",
+   "driveFolder": "saagii_so/raw (1m3vESG_T9g2MrryfAJgnkhJSa_t9N0bX)"
+  }
+ ]
+}

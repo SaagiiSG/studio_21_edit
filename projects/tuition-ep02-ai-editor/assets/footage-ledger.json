@@ -1,0 +1,40 @@
+[
+ {
+  "scene": "s06",
+  "sourceSceneId": "raw-take-8.4",
+  "asset": "assets/mon-a.mp4",
+  "sha256": "acaa8043630b6b814f69b1ab9b2e09bd0029a52903781c0728045748a21eaa59",
+  "sourceStart": 0.0,
+  "sourceEnd": 10.233,
+  "upstream": {
+   "file": "assets/source.mov",
+   "sourceStart": 8.4,
+   "sourceEnd": 18.633,
+   "speed": 1.0,
+   "provenance": "Saagii's own recording (Drive saagii_so/raw, 2026-10-16)"
+  },
+  "description": "Raw take (unedited master), take 3 of the hook + an abandoned restart with the spoken 'cut' marker. Muted.",
+  "framing": {
+   "9x16": "Full source frame scaled into a 330x586 monitor window inside the graphics panel"
+  }
+ },
+ {
+  "scene": "s08",
+  "sourceSceneId": "aroll-opening-0.0",
+  "asset": "assets/mon-b.mp4",
+  "sha256": "e8960ac349c442ea3c37748feba42e4ec91e12f08697c65fd7ea38dce27d44e5",
+  "sourceStart": 0.0,
+  "sourceEnd": 4.267,
+  "upstream": {
+   "file": "assets/aroll.mp4",
+   "sourceStart": 0.0,
+   "sourceEnd": 4.267,
+   "speed": 1.0,
+   "provenance": "Saagii's own recording (Drive saagii_so/raw, 2026-10-16)"
+  },
+  "description": "The clean cut (A-roll) of this video's own opening: the editor's output. Muted.",
+  "framing": {
+   "9x16": "Full source frame scaled into a 330x586 monitor window inside the graphics panel"
+  }
+ }
+]

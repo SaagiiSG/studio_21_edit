@@ -17,3 +17,4 @@ Validators and lint report missing media until steps 1–4 have run. That's expe
 | Project | Date | Delivered |
 | --- | --- | --- |
 | [arson-wraps-pitch](arson-wraps-pitch/) | 2026-10-16 | Draft v4: 60 s 9:16 pitch reel. Sent in chat; not yet in Drive `edited` (no upload token at the time) |
+| [tuition-ep02-ai-editor](tuition-ep02-ai-editor/) | 2026-10-16 | Draft v2: 45 s 9:16, cyberpunk take on the Studio 21 brand. Sent in chat; not yet in Drive `edited` (no upload token) |

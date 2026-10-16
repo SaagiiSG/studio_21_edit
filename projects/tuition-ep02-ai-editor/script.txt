@@ -1,0 +1,4 @@
+I gave myself one hour to build an AI video editor, because it was taking 30 minutes to one hour to edit a single video, which was not good.
+But it took quite a lot of time, which I will tell you in the end of the video.
+But the basic thing goes like this: you put in your video, raw video, then AI analyzes it, and it cuts the dead spaces, and it adds in the caption, and it adds B-roll on top of it, and all I have to do is export it, put some background music on it, then it's done. Post it.
+And it took me five hours to build the version one of it, and this is far from the vision I had, but it's something, and the video you're watching right now is edited by this editor, so I would say this is a win, and this was episode two of making my tuition by January 15th.

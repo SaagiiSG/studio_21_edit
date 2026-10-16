@@ -35,6 +35,16 @@ Add to this file whenever Saagii gives a note or a step goes wrong. Format: rule
   ~1 s, it's ASR, not damage. Captions come from the reviewed `script.txt`, never raw ASR.
 - Render the cut in **one ffmpeg pass** with frame-exact trims (`trim=start_frame/end_frame`). Never
   encode segments separately and concatenate; that drifts lip sync.
+- Saagii marks retakes by saying **"cut"** out loud. Search the raw ASR for "cut" and treat each one as the
+  end of an abandoned take; keep the take after the last "cut" for that line.
+- Two silences split by a 20 ms blip can each fall under `min_pause` and leave a 0.5 s gap untrimmed
+  ("I … gave myself"). Look for adjacent sub-threshold silences and split the segment by hand.
+- `tools/align_words.py` clamps each word into the keep holding its midpoint. A short word right after a
+  join can land in the keep *before* the cut ("the" before "video you're watching"), and a short word before
+  a join can collapse to 40 ms. Check the words on both sides of every join and re-anchor them from the
+  loudness envelope (`assets/align-fixes.json`, applied by the project's build script).
+- Whisper's first pass on a fresh model download prints nothing for minutes (download, then the first 30 s
+  window). It isn't stuck; check CPU time before restarting it.
 
 ## HyperFrames composition
 
@@ -51,6 +61,20 @@ Add to this file whenever Saagii gives a note or a step goes wrong. Format: rule
   lip sync exact. Measured offset 0 frames at 8 points.
 - A 60 s 1080x1920 reel renders in ~4.5 min at standard quality (138 MB). Deliver a 2-pass 5 Mb/s share copy
   (~39 MB) with the audio copied.
+- A `<video>` clip whose `data-duration` ends exactly on a cut still shows on the cut frame. End inset
+  (picture-in-picture) clips one frame early, or the old clip flashes over the next scene for a frame.
+- Two `tl.set` calls meant for "the same" frame can run in the wrong order when one time is rounded
+  (24.833) and the other isn't (24.833333): the hide lands after the show and the element never appears.
+  Put the show at `max(start + 0.02, t)` or use one rounding everywhere.
+- `tl.fromTo` / `tl.from` render their start state immediately at build time. For anything visible on
+  frame 0 with a CSS initial state (e.g. a dim timer), pass `immediateRender:false`.
+- Live text (countdowns, counters, scrambles) works with a proxy tween + `onUpdate` writing `textContent`,
+  seeded by frame index for scrambles. Deterministic and renders correctly (verified frame by frame).
+- `tools/qa_checks.py` lip sync compares unscaled frames, so a push-in on face shots reports a false ±1.
+  Either keep face shots static or check with the layout transform modelled (split shift, push scale);
+  that check gave offset 0 everywhere on tuition-ep02.
+- Use `hyperframes snapshot --at t1,t2,… --no-end` for a quick look at graphics before a full render
+  (~1 min for 30 frames vs ~6 min to render).
 
 ## Sound
 

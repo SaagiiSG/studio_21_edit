@@ -1,0 +1,103 @@
+{
+ "segments": [
+  {
+   "id": "s1a-hook",
+   "start": 3.55,
+   "end": 3.93,
+   "why": "'I' of take 2 of the hook"
+  },
+  {
+   "id": "s1b-hook",
+   "start": 4.25,
+   "end": 6.98,
+   "why": "Take 2 of the hook, continued: '(I) gave myself one hour to build an AI video editor'. The only take that says 'AI'; take 3 adds 'and edit my videos from now on' but runs straight into the abandoned 'because ... to build' line with no silence to cut on. The 0.5 s pause after 'I' (two sub-threshold silences 3.85-4.10, 4.12-4.37) is trimmed by hand to 0.18 s"
+  },
+  {
+   "id": "s2-why",
+   "start": 28.85,
+   "end": 33.32,
+   "why": "Last clean take: 'because it was taking 30 minutes to one hour to edit a single video, which was not good'"
+  },
+  {
+   "id": "s3a-loop",
+   "start": 44.12,
+   "end": 44.667,
+   "why": "'But it took' (retake of the open-loop line)"
+  },
+  {
+   "id": "s3b-loop",
+   "start": 45.467,
+   "end": 48.98,
+   "why": "'quite a lot of time, which I will tell you in the end of the video'. Joined in the 80 ms dip after 'took' (both edges \u2248 \u221248 dB)"
+  },
+  {
+   "id": "s4-process",
+   "start": 51.3,
+   "end": 74.5,
+   "why": "The pipeline: 'But the basic thing goes like this ... then it's done. Post it.'"
+  },
+  {
+   "id": "s5a-payoff",
+   "start": 79.8,
+   "end": 88.06,
+   "why": "Loop closes: 'And it took me five hours to build the version one of it ... but it's something, and'"
+  },
+  {
+   "id": "s5b-meta",
+   "start": 89.48,
+   "end": 100.75,
+   "why": "'the video you're watching right now is edited by this editor, so I would say this is a win, and this was episode two of making my tuition by January 15th'"
+  }
+ ],
+ "removed": [
+  {
+   "start": 0.0,
+   "end": 3.55,
+   "reason": "Take 1 of the hook ('I gave myself a one hour to build a video editor'), superseded by take 2"
+  },
+  {
+   "start": 6.98,
+   "end": 28.85,
+   "reason": "Take 3 of the hook + four abandoned restarts of the 'because' line ('...to one hour to build', 'because, cut', 'because it was, [swear], cut, cut'). The spoken 'cut' markers and the swear are removed with them"
+  },
+  {
+   "start": 33.32,
+   "end": 44.12,
+   "reason": "First take 'so I spent quite a amount of time which I'm gonna tell you at the end of the video' (stumble 'quite a amount', long pauses) + spoken 'cut'; retaken at 44.3"
+  },
+  {
+   "start": 44.667,
+   "end": 45.467,
+   "reason": "Stumble: first 'quite a' (44.72-45.08) + 0.4 s pause before he restarts 'quite a lot of time'. Found only by re-transcribing the cut"
+  },
+  {
+   "start": 48.98,
+   "end": 51.3,
+   "reason": "2.3 s dead air (breath) before 'But the basic thing'"
+  },
+  {
+   "start": 74.5,
+   "end": 79.8,
+   "reason": "3.7 s dead air and a 'Yeah.' (78.95-79.25) before 'And it took me five hours'; 0.38 s kept as a beat before the payoff"
+  },
+  {
+   "start": 88.06,
+   "end": 89.48,
+   "reason": "Stumble 'the video ste-' (88.20-89.10), restarted as 'the video you're watching'"
+  },
+  {
+   "start": 100.75,
+   "end": 101.6,
+   "reason": "Room tone after the last word"
+  }
+ ],
+ "params": {
+  "noise_db": -38,
+  "min_silence": 0.18,
+  "min_pause": 0.28,
+  "keep_short": 0.18,
+  "keep_long": 0.26,
+  "long_pause": 0.9,
+  "pre_share": 0.45
+ }
+}

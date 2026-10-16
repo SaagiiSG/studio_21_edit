@@ -1,0 +1,59 @@
+[
+ {
+  "id": "main",
+  "question": "He gave himself one hour to build an AI video editor. How long did it actually take?",
+  "object": "The HUD build timer: '1:00:00 TIME LIMIT' counting down",
+  "setup": 0.913,
+  "updates": [
+   {
+    "time": 8.833333,
+    "state": "Timer returns as 'ACTUAL BUILD TIME', digits scrambled, STATUS: ENCRYPTED"
+   },
+   {
+    "time": 10.133,
+    "state": "Chip 'REVEALED AT THE END' on 'I will tell you in the end of the video'"
+   }
+  ],
+  "closure": 29.793,
+  "resolution": "Scramble resolves to 5:00:00, 'LIMIT 1:00:00' is struck through, overtime bar fills to 5x the limit",
+  "supportingSpeech": "And it took me five hours to build the version one of it"
+ },
+ {
+  "id": "secondary",
+  "question": "How does the editor actually work?",
+  "object": "The raw-footage monitor in the pipeline panel",
+  "setup": 13.473,
+  "updates": [
+   {
+    "time": 16.673,
+    "state": "Scan + face/speech lock"
+   },
+   {
+    "time": 19.23,
+    "state": "Real waveform loses its dead space: 1:41.6 -> 0:45.1"
+   },
+   {
+    "time": 20.833,
+    "state": "Caption lands on the monitor"
+   },
+   {
+    "time": 22.293,
+    "state": "B-roll panel drops on top"
+   },
+   {
+    "time": 24.833,
+    "state": "Export bar 0-100%"
+   }
+  ],
+  "closure": 28.423,
+  "resolution": "POST pressed -> POSTED; called back at 'the video you're watching right now is edited by this editor' with this video's real cut list",
+  "supportingSpeech": "you put in your video, raw video, then AI analyzes it ... then it's done. Post it."
+ },
+ {
+  "opening": {
+   "benefit": "Watch someone race a self-imposed one-hour deadline to build an AI video editor, and see how it works",
+   "evidenceBy3": "By 0:03 the 1:00:00 timer has lit up and is visibly counting down, with an 'AI VIDEO EDITOR' target chip",
+   "payoffTime": 29.793
+  }
+ }
+]
