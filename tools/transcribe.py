@@ -1,8 +1,11 @@
 """Local faster-whisper transcription -> herk-edit-kit word-level JSON.
 
 usage: python3 transcribe.py <audio.wav> <out.json> <source-duration-secs> [model]
+
+Language: set STUDIO21_LANG (default "en"; Mongolian is "mn"). It is recorded in the output JSON.
 """
 import json
+import os
 import sys
 import wave
 
@@ -11,6 +14,7 @@ from faster_whisper import WhisperModel
 
 audio, out, duration = sys.argv[1], sys.argv[2], float(sys.argv[3])
 model_name = sys.argv[4] if len(sys.argv) > 4 else "large-v3"
+language = os.environ.get("STUDIO21_LANG", "en")
 
 # Input is 16 kHz mono s16 WAV from ffmpeg; decode here to avoid PyAV version issues.
 with wave.open(audio) as wf:
@@ -20,7 +24,7 @@ with wave.open(audio) as wf:
 model = WhisperModel(model_name, device="cpu", compute_type="int8", cpu_threads=4)
 segments, info = model.transcribe(
     pcm,
-    language="en",
+    language=language,
     word_timestamps=True,
     vad_filter=False,
     condition_on_previous_text=False,
