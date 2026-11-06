@@ -42,6 +42,10 @@ Add to this file whenever Saagii gives a note or a step goes wrong. Format: rule
 - **Silent is not dead on a screen recording.** Drawing/writing in silence has lots of pixel change; typing a prompt has
   almost none but is still on-screen content. `deadspace_cut.py` keeps more of busy gaps and tells you the longest cuts
   (those are usually typing) so Saagii can ask for a speed-up instead.
+- **Webcam bubble position changes between recordings** (bottom-left in the whiteboard lesson, top-left in the agent-chat
+  one). Look at a full-size frame and pass `--webcam-box x0,y0,x1,y1` to `deadspace_cut.py`; otherwise face movement
+  reads as screen activity and silent gaps are kept too long. Its "drawing" kind just means "screen busy": in a chat
+  recording it is silent scrolling/clicking between threads, so read the stills before describing the cuts.
 - Render the cut in **one ffmpeg pass** with frame-exact trims (`trim=start_frame/end_frame`). Never
   encode segments separately and concatenate; that drifts lip sync.
 

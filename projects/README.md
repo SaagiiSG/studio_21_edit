@@ -18,3 +18,4 @@ Validators and lint report missing media until steps 1–4 have run. That's expe
 | --- | --- | --- |
 | [arson-wraps-pitch](arson-wraps-pitch/) | 2026-10-16 | Draft v4: 60 s 9:16 pitch reel. Sent in chat; not yet in Drive `edited` (no upload token at the time) |
 | [goat-academy-lesson](goat-academy-lesson/) | 2026-11-06 | Draft v1: 11m53s dead-space cut of a Mongolian whiteboard/chat screen recording, native 1660x1080. Sent in chat; not in Drive `edited` (no upload token) |
+| [create-new-bot](create-new-bot/) | 2026-11-06 | Draft v1: 4m52s dead-space cut (from 8m50s) of an AI-agent chat screen recording, native 1660x1080, webcam top-left. Sent in chat; not in Drive `edited` (no upload token) |
