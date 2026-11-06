@@ -33,6 +33,15 @@ Add to this file whenever Saagii gives a note or a step goes wrong. Format: rule
   AI does its magic" and a repeated "of their car". Only the re-ASR of the cut showed them.
 - Quiet speech gives run-to-run ASR differences ("want the same" → "want to sing"). If there's no cut within
   ~1 s, it's ASR, not damage. Captions come from the reviewed `script.txt`, never raw ASR.
+- **Check the spoken language before transcribing.** `transcribe.py` and `chunk_asr.py` default to English; set
+  `STUDIO21_LANG=mn` for Mongolian (Saagii's AI lessons). Whisper's Mongolian is weaker, so for a plain dead-space cut
+  don't depend on words: use `tools/deadspace_cut.py` (VAD + loudness + screen motion).
+- **Calibrate the silence threshold to the mic.** A -38 dB threshold suits noisy phone footage; the 2026-11-06 screen-recording
+  audio had a floor of about -70 dBFS (measure it first). Total "silence" swung from 36% to 53% between -54 and -38 dB, so a loudness threshold alone is a guess.
+  Require VAD "no speech" AND quiet before cutting.
+- **Silent is not dead on a screen recording.** Drawing/writing in silence has lots of pixel change; typing a prompt has
+  almost none but is still on-screen content. `deadspace_cut.py` keeps more of busy gaps and tells you the longest cuts
+  (those are usually typing) so Saagii can ask for a speed-up instead.
 - Render the cut in **one ffmpeg pass** with frame-exact trims (`trim=start_frame/end_frame`). Never
   encode segments separately and concatenate; that drifts lip sync.
 
